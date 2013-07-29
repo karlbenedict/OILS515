@@ -27,3 +27,11 @@ echo "+++++ now starting the HTML5 generation +++++"
 asciidoc -a data-uri -a icons -a toc -a max-width=55em -b html5 $MYFILE
 
 mv $FILEBASE".html" ../html
+
+echo
+echo "+++++ now starting the slidy generation +++++"
+### Process and move the self-contained slidy html presentatino into the slides folder
+asciidoc -a data-uri -a icons -a toc -a max-width=55em -b slidy $MYFILE
+mv $FILEBASE".html" ../slides/$FILEBASE"_slides.html"
+
+
