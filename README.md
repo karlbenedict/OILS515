@@ -1,4 +1,4 @@
-INFO520
+OILS 515 
 =======
 
-Informatics 520 class materials 
+Organization, Information, and Learning Sciences 515 class materials 
