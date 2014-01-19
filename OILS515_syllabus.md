@@ -88,6 +88,7 @@ Technical Requirements
 * Spatial Database - SpatiaLite
 	* [http://www.kyngchaos.com/software/frameworks](http://www.kyngchaos.com/software/frameworks)[Mac OS X]
 	* [http://www.gaia-gis.it/gaia-sins/](http://www.gaia-gis.it/gaia-sins/)[Windows & Source (Linux)]
+* Python (possible, based upon interest)
 
 ### Hardware
 
