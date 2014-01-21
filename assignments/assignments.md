@@ -57,3 +57,6 @@ Produce a 2-page NSF Data Management Plan appropriate for the particular NSF pro
 *Please post comments for at least three of the posted data management plans from Week 13 prior to 5/5*
 
 Please provide substantive comments (in the discussion area) - both positive and constructive criticism - for three of the data management plans provided by your peers in the class. 
+
+
+<div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>

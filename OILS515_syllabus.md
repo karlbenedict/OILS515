@@ -1,7 +1,4 @@
-% OILS 515 - Introduction to Spatial Data Management - Syllabus
-% Karl Benedict
-% 2014-01-13
-
+# OILS 515 - Introduction to Spatial Data Management - Syllabus
 
 Many data products are inherently spatial. Obviously spatial data include data collection locations, but many other data may also be considered spatial: locations in space that documents pertain to and locations of historic or literary events illustrating just a few. While maps are a familiar product derived from spatial data, there is significant understanding of the underlying data -- the processes to which it has been subjected, the actual values within the data, the originator of the data, any limitations in the appropriate use of the data, and the nature of the dataset itself (format, scale, coordinate system, units) -- that is required before it can be productively used for research or applications. This course is designed to provide graduate-level students with the necessary skills and knowledge to meet this challenge through hands-on work in _discovering_, _creating_, _managing_, _using_, _documenting_ and _sharing_ spatial data. After completing this course students will be better prepared to develop a plan for the management of their spatial data, locate and evaluate data sources that they need for their research, create and structure data that they collect for maximum value both during and after their research project, and document their data throughout their research projects, maximizing the impact of their research and the value of the data they generate and share with other researchers. 
 
@@ -158,3 +155,5 @@ Week       Date       Topic                     Collaboratory                   
  
 17         5/12        Finals Week               -                               -                  -                   -
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
+<div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
