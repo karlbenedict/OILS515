@@ -64,8 +64,11 @@ Galati, S. R. (2006). Geographic Information Systems Demystified. Boston: Artech
 
 ### Assignment ###
 
+[Link to this week's assignment](http://karlbenedict.com/OILS515/assignments/assignments.html#week-2---domain-specific-literature-review)
 
 ### Class Project ###
+
+[Link to this week's task related to the class project](http://karlbenedict.com/OILS515/assignments/assignments.html#week-2---class-project---define-your-data-management-focus-for-the-term)
 
 
 
