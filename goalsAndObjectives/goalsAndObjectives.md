@@ -29,4 +29,45 @@ Piwowar, Heather A., Roger S. Day, and Douglas B. Fridsma. 2007 "Sharing Detaile
 
 Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. "Data Sharing by Scientists: Practices and Perceptions." *Plos ON*E 6, no. 6: 1-21. Academic Search Complete, EBSCOhost (accessed January 19, 2014). [link](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=74275116&site=eds-live&scope=site)
 
+
+
+
+## Week 2 - Introduction to Vector Data ##
+
+### Background ###
+
+This week we begin our consideration of the different classes of geospatial data that you are likely to encounter - both as you search for data to use in your research and as you produce data with a spatial component that you need to integrate into a spatial data management system or workflow. Our focus is on *vector* datasets this week, with a particular emphasis on the general types of vector data *features* you need to be aware of, and the key linkage between vector *geometries* and the *attributes* that are linked to those features. While the introductory lecture focuses on these aspects of vector datasets, the concepts of *map projections* or *coordinate reference systems* as introduced in the reading are also core concepts that you will need to understand in the context of all spatial data that you work with. Next week's lecture will include a more detailed overview of map projections (and focus on raster data), but for now see what you can also pick up from the reading as it blends both vector and raster data and map projections into a single chapter. 
+
+### Expected Outcomes ###
+
+By the end of this week's reading and work you should have an understanding of:
+
+* The types of geometries that are likely to be encountered when working with vector data
+* The concept of attributes and attribute types as they are linked to features
+* The beginning of an understanding of how you can transform tabular data that may have implicit spatial content into explicitly spatial data 
+* The importance of map projections in clearly understanding the spatial context for coordinates and geometries based upon those coordinates. 
+
+### Key Concepts ###
+
+* Vector Feature Types: *point*, *line*, *polygon*
+* Attributes and associated attribute data types
+* Map projections 
+
+### Readings ###
+
+Westra, E. (2010). Python Geospatial Development : Build a Complete and Sofisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 2* and skim *Chapter 1*. 
+
+Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site). Review the *Introduction*, keeping in mind that some of the database related issues will come up in a few weeks - so, don't be worried if some of the database terminology is confusing during this initial read through. 
+
+Galati, S. R. (2006). Geographic Information Systems Demystified. Boston: Artech House. [Link for access to the online and downloadable eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=225164&site=eds-live&scope=site). Skim *Chapters 1 & 3* 
+
+
+### Assignment ###
+
+
+### Class Project ###
+
+
+
+
 <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
