@@ -55,7 +55,7 @@ By the end of this week's reading and work you should have an understanding of:
 
 ### Readings ###
 
-Westra, E. (2010). Python Geospatial Development : Build a Complete and Sofisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 2* and skim *Chapter 1*. 
+Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 2* and skim *Chapter 1*. 
 
 Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site). Review the *Introduction*, keeping in mind that some of the database related issues will come up in a few weeks - so, don't be worried if some of the database terminology is confusing during this initial read through. 
 
@@ -72,5 +72,44 @@ Galati, S. R. (2006). Geographic Information Systems Demystified. Boston: Artech
 
 
 
+
+## Week 3 - Introduction to Raster Data and Other Related Geospatial Data Concepts ##
+
+### Background ###
+
+This week we will conclude our overview of geospatial data types and cover some additional core geospatial data concepts that you need to be familiar with as you work with geospatial data in your own research. Beginning with a discussion of *raster* data types, an introduction to the *geodatabase* concept (to be much expanded upon in the coming weeks) our overview of different classes of geospatial data is now complete. This week's lecture also includes a discussion of the key role of *coordinate reference systems* (AKA map projections) in understanding the map coordinates represented in geospatial data, the importance of the consideration of *accuracy and precision* in geospatial (and other) data, and the relationship between accuracy and precision and the concept of map scale. 
+
+### Expected Outcomes ###
+
+After reviewing this week's lecture and completing the reading, you should understand the following concepts:
+
+* Raster, vector and tabular data and their respective characteristics in spatial data management
+* The importance of coordinate reference systems, and the specific purposes for which they are defined, in characterizing locations encoded in spatial data
+* The concepts of accuracy and precision in location data and some of the factors that can contribute to decreased accuracy (bias) in location data. 
+
+### Key Concepts ###
+
+* Spatial data types
+* Map projects and the tradeoffs in defining them
+* Accuracy and precision in location data
+
+### Reading ###
+
+Review the readings from last week as they relate to the raster data and other data concepts that will be covered in this week's lecture and demonstration. 
+
+NationalAtlas.gov. *Map Projections: From Spherical Earth to Flat Map*. Online resource: [http://nationalatlas.gov/articles/mapping/a_projections.html](http://nationalatlas.gov/articles/mapping/a_projections.html). Accessed on 2/2/2014. 
+
+Quantum GIS (QGIS) Documentation:
+
+* [A gentle introduction to GIS](http://www.qgis.org/en/docs/gentle_gis_introduction/index.html)
+* [User's Guide (skim for reference and familiarity with content and organization)](http://www.qgis.org/en/docs/user_manual/index.html)
+
+### Assignment ###
+
+Continue your work on the literature review that you began last week. 
+
+### Class Project ###
+
+Continue your work on defining your data management focus for the term
 
 <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
