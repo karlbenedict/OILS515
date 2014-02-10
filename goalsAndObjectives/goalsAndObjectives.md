@@ -64,11 +64,11 @@ Galati, S. R. (2006). Geographic Information Systems Demystified. Boston: Artech
 
 ### Assignment ###
 
-[Link to this week's assignment](http://karlbenedict.com/OILS515/assignments/assignments.html#week-2---domain-specific-literature-review)
+[Link to this week's assignment](http://tinyurl.com/lp579y8)
 
 ### Class Project ###
 
-[Link to this week's task related to the class project](http://karlbenedict.com/OILS515/assignments/assignments.html#week-2---class-project---define-your-data-management-focus-for-the-term)
+[Link to this week's task related to the class project](http://tinyurl.com/kjtjrqw)
 
 
 
@@ -111,5 +111,84 @@ Continue your work on the literature review that you began last week.
 ### Class Project ###
 
 Continue your work on defining your data management focus for the term
+
+### Data Links ###
+
+Here are the links to the datasets that were used in this week's QGIS demonstration:
+
+* <http://kkb-classes.s3.amazonaws.com/2014/OILS515/data/bernalillo_tm2011_img.zip>
+* <http://kkb-classes.s3.amazonaws.com/2014/OILS515/data/gnis_nm_all09.zip>
+* <http://kkb-classes.s3.amazonaws.com/2014/OILS515/data/hyp2shp_shp.zip>
+* <http://kkb-classes.s3.amazonaws.com/2014/OILS515/data/NM_Features_20130811.zip>
+* <http://kkb-classes.s3.amazonaws.com/2014/OILS515/data/nm60mdem.zip>
+* <http://kkb-classes.s3.amazonaws.com/2014/OILS515/data/tl_2010_35_state10_shp.zip>
+* <http://kkb-classes.s3.amazonaws.com/2014/OILS515/data/tl_2010_35_zcta510_shp.zip>
+
+
+
+
+
+## Week 4 - Database Design I ##
+
+### Background ###
+
+This week we begin our consideration of database design, beginning with the basic terminology, concepts and types of databases that have been developed to date. We will have a short in-class presentation during this week's collaboratory session relating to the considerations you want to keep in mind when starting the process of *modeling* your data to meet a specific analytic and management goal. 
+
+### Expected Outcomes and Key Concepts ###
+
+After completing this week's reading and participating in the collaboratory you should understand the following concepts:
+
+* What the *relational database model* is
+* What *Structured Query Language (SQL)* is 
+* What the *Objectives* and *Benefits* of good database design are
+* What the distinction is between *data* and *information*
+* What *null* values are and why consideration of nulls is important in your database design
+* What *tables*,*rows*, *fields* and*views* are when designing a database
+* What *Primary* and *Foreign* keys are in a database
+* What *one-to_one*, *one-to-many* and *many-to-many* relationships are within a database
+* What *data integrity* is and why you must design your database to maintain it
+
+
+### Reading ###
+
+This week's readings in *Database Design for Mere Mortals* cover the basic concepts of database terminology, leading into the design process as you consider the "model" for your data. Both editions are on 1-day reserve at the Centennial Science and Engineering Library. 
+
+Michael J. Hernandez (2003). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 2nd ed. Addison-Wesley. *Chapters 1-3*
+
+or 
+
+Michael J. Hernandez (2013). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 3rd ed. Addison-Wesley. *Chapters 1-3*
+
+As some technical background for the database platform that underlies the geodatabase (SpatiaLite) we will be working with as part of this class, skimming the following materials will be helpful.
+
+Grant Allen and Mike Owens (2010). *The Definitive Guide to SQLite*. 2nd ed. Apress. <http://www.books24x7.com.libproxy.unm.edu/marc.asp?bookid=37960> (you will need to create an account with Books 24x7 to access this digital resource). *Chapters 1-3* - skim 2, the installation process of SQLite is taken care of through the SpatiaLite installation process you perform. 
+
+and, as a beginning of our Python thread for the class, I recommend the following two iPython notebooks (an emerging technology that enables the development, execution and sharing of Python code through a web interface - <http://ipython.org/notebook.html> - both run on your local computer, but also potentially hosted on other systems, such as [Wakari](https://www.wakari.io/wakari)) developed by J.R. Johansson (<robert@riken.jp>) <http://dml.riken.jp/~rob/>:
+
+[Lecture 0 - Scientific Computing with Python](https://www.wakari.io/sharing/bundle/kbene/Lecture_0_Scientific_Computing_with_Python)
+
+[Lecture 1 - Introduction to Python Programming](https://www.wakari.io/sharing/bundle/kbene/Lecture_1_Introduction_to_Python_Programming)
+
+
+
+### Assignment ###
+
+Please be prepared to give an ~10-minute presentation to the class over our Google Hangout during the Collaboratory Session this week on Tuesday from 5:00-6:30 pm. The presentation should address the requested information in the assignment for each of the items you addressed in your literature review:
+
+Complete Citation
+:	A complete citation that would allow another researcher to locate the publication that you used. If available, provide the DOI (Digital Object Identifier) and online link for the publication. 
+
+Summary
+:	A brief summary of the publication's focus and conclusions.
+
+Relevance
+:	A discussion of the relevance of the publication's findings to your interest in spatial data management in your research area/project. 
+
+Please post your writeup as a new "Thread" in the class's "Literature Review Results" discussion forum in Learn. 
+
+### Class Project ###
+
+Please continue your work in defining your data management focus for the term. Please schedule a time for us to "meet" to discuss your thoughts on this before 2/19 so we can make sure you are on track to be able to begin defining the specific datasets that you will be producing and documenting as part of your term project. 
+
 
 <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
