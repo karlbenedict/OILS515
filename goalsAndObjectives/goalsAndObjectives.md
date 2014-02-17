@@ -191,4 +191,301 @@ Please post your writeup as a new "Thread" in the class's "Literature Review Res
 Please continue your work in defining your data management focus for the term. Please schedule a time for us to "meet" to discuss your thoughts on this before 2/19 so we can make sure you are on track to be able to begin defining the specific datasets that you will be producing and documenting as part of your term project. 
 
 
+
+
+
+## Week 5 - Database Design II ##
+
+### Background ###
+
+This week you will be digging deeper into the concepts that you began working with last week in the context of relational database design. 
+
+### Expected Outcomes and Key Concepts ###
+
+Similar to last week, just in more detail as the readings for this week go into much more depth relating to these concepts. 
+
+### Reading ###
+
+Michael J. Hernandez (2003). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 2nd ed. Addison-Wesley. *Chapters 4, 5 (skim as you are most likely both the interviewer and interviewee in the context data that you are creating yourself), 6 & 7*
+
+or 
+
+Michael J. Hernandez (2013). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 3rd ed. Addison-Wesley. *Chapters 4, 5 (skim as you are most likely both the interviewer and interviewee in the context data that you are creating yourself), 6 & 7*
+
+Continuing the technical background for creating and adding data to SQLite (the database upon which SpatiaLite is based)
+
+Grant Allen and Mike Owens (2010). *The Definitive Guide to SQLite*. 2nd ed. Apress. <http://www.books24x7.com.libproxy.unm.edu/marc.asp?bookid=37960> (you will need to create an account with Books 24x7 to access this digital resource). *Chapter 4* 
+
+Also, related to data resources, 
+
+Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 4*.  
+
+
+### Assignment ###
+
+Start working on the assignment to locate and describe data and review for documentation, usability and understanding. 
+
+
+
+
+
+
+## Week 6 - Geodatabase Design ##
+
+### Background ###
+
+This week we introduce the concepts related to the integration of geospatial data into relational database systems. This integration includes both the introduction of new data types into the database (i.e. the `geometry` data type), specialized indices that are optimized for working with those data, and additional functions that extend the SQL foundation of these databases to support additional query types that are explicitly spatial. 
+
+### Expected Outcomes and Key Concepts ###
+
+At the end of this section of the course, you should understand the following:
+
+* The model for expanding standard relational databases to include support for geometries and their associated attributes
+* The range of specialized spatial queries that can be used within a geospatially enabled database
+
+### Reading ###
+
+For a more "cookbook" style presentation of the processes of working with SpatiaLite, check out:
+
+[The SpatiaLite Cookbook](http://www.gaia-gis.it/gaia-sins/spatialite-cookbook/index.html#toc)
+
+For an overview of geospatially enabled databases and a description of the capabilities of three geodatabases, including SpatiaLite. 
+
+Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 6*.  
+
+Finally, for a higher-level overview of some issues related to the development and performance of geodatabases:
+
+Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site). Review the *Chapter 2*. 
+
+
+### Assignment ###
+
+Continue working on data review assignment
+
+
+
+
+
+
+## Week 7 - Managing Raster Data ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+### Assignment ###
+
+Continue working on data review assignment
+
+
+
+
+
+
+
+## Week 8 - Data Formats for Analysis and Archiving ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+### Assignment ###
+
+Present results of data review assignment in required collaboratory session
+
+### Class Project ###
+
+Enumerate the specific datasets that you will create and document as part of your class project
+
+
+
+
+
+
+## Week 9 - Spring Break ##
+
+
+
+
+
+
+
+
+
+## Week 10 - Documenting Data - The Interview ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+### Class Project ###
+
+Begin creating class project datasets
+
+
+
+
+
+
+## Week 11 - XML Document Creation, editing and validation ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+
+
+
+
+
+
+## Week 12 - Metadata Standards - FGDC ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+### Class Project ###
+
+Begin creating documentation for class project datasets
+
+
+
+
+
+
+## Week 13 - Metadata Standards - ISO and Dublin Core ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+### Assignment ###
+
+Create a data management plan
+
+
+
+
+
+
+
+
+## Week 14 - Data Management Planning ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+
+
+
+
+
+
+## Week 15 - Ethical, legal and privacy issues ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+### Assignment ###
+
+Data management plan and Class project dataset and documentation peer review
+
+### Class Project ###
+
+Share class project datasets and documentation with peers for review
+
+
+
+
+
+
+
+## Week 16 - Emerging Concepts ##
+
+### Background ###
+
+TBA
+
+### Expected Outcomes and Key Concepts ###
+
+TBA
+
+### Reading ###
+
+TBA
+
+### Class Project ###
+
+Present class project results and peer review outcome
+
+
+
+
 <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
