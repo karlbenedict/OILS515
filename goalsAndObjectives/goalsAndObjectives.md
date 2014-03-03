@@ -27,7 +27,7 @@ This week's required "collaboratory" session (Tuesday afternoon, 5:00-6:30 - met
 
 Piwowar, Heather A., Roger S. Day, and Douglas B. Fridsma. 2007 "Sharing Detailed Research Data Is Associated with Increased Citation Rate." Plos One 2, no. 3: Science Citation Index, EBSCOhost (accessed January 20, 2014). [link](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0000308)
 
-Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. "Data Sharing by Scientists: Practices and Perceptions." *Plos ON*E 6, no. 6: 1-21. Academic Search Complete, EBSCOhost (accessed January 19, 2014). [link](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=74275116&site=eds-live&scope=site)
+Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. "Data Sharing by Scientists: Practices and Perceptions." *Plos ONE* 6, no. 6: 1-21. Academic Search Complete, EBSCOhost (accessed January 19, 2014). [link](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=74275116&site=eds-live&scope=site)
 
 
 
@@ -271,15 +271,37 @@ Continue working on data review assignment
 
 ### Background ###
 
-TBA
+Much of our focus thus far has been on database development, and concepts related to the management of data that link most directly into the vector data model - geometries and their associated attributes. This week we will concentrate on the characteristics of raster data, and highlight some tools and strategies for creating and managing raster data products. 
 
 ### Expected Outcomes and Key Concepts ###
 
-TBA
+Following this week's work you should understand the following:
+
+* The circumstances in which you might use a raster as opposed to vector data model for you data
+* The concept of spatial resolution as it relates to raster data
+* Some of the processing and analysis functions that may be applied to raster data
+* The basic functionality of the GDAL utilities for characterizing and transforming raster datasets. 
 
 ### Reading ###
 
-TBA
+"Raster" in the [Encyclopedia of Geographic Information Science](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=474337&site=eds-live&scope=site&ebv=EB&ppid=pp_361)
+
+Revisit the Quantum GIS User Guide - particularly the section on [Raster Data](http://www.qgis.org/en/docs/user_manual/working_with_raster/index.html). 
+
+Review the documentation for the [GDAL Utilities](http://www.gdal.org/gdal_utilities.html), particularly 
+
+* [`gdalinfo`](http://www.gdal.org/gdalinfo.html)
+* [`gdal_translate`](http://www.gdal.org/gdal_translate.html)
+* [`gdalwarp`](http://www.gdal.org/gdalwarp.html)
+
+as these utilities based upon the GDAL library for processing Raster datasets provide very useful tools for interrogating and transforming raster data. For complementary capabilities for vector datasets, review the documentation for the OGR-related utilities:
+
+* [`ogrinfo`](http://www.gdal.org/ogrinfo.html)
+* [`ogr2ogr`](http://www.gdal.org/ogr2ogr.html)
+
+All of these GDAL and OGR utilities are included as part of the installation process of QGIS on your computer, and are accessible through the OSGEO4W shell in Windows, or from the terminal under the Mac OS. 
+
+Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 3*. With a particular focus on the discussion around GDAL and OGR as both of these libraries provide powerful capabilities for working with raster and vector data, both outside of and within Python. 
 
 ### Assignment ###
 

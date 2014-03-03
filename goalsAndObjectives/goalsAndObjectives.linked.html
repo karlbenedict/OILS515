@@ -133,7 +133,7 @@
 <p>This week's required &quot;collaboratory&quot; session (Tuesday afternoon, 5:00-6:30 - method TBA) will allow us to share some background about each other, review the class structure and objectives and have a brief overview of the research and data lifecycles and the linkages beween them. While this week's lecture will be done &quot;live&quot; during our collaboratory session, future lectures will be pre-recorded and accessible at the beginning of each class week.</p>
 <h3 id="reading"><a href="#reading">Reading</a></h3>
 <p>Piwowar, Heather A., Roger S. Day, and Douglas B. Fridsma. 2007 &quot;Sharing Detailed Research Data Is Associated with Increased Citation Rate.&quot; Plos One 2, no. 3: Science Citation Index, EBSCOhost (accessed January 20, 2014). <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0000308">link</a></p>
-<p>Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. &quot;Data Sharing by Scientists: Practices and Perceptions.&quot; <em>Plos ON</em>E 6, no. 6: 1-21. Academic Search Complete, EBSCOhost (accessed January 19, 2014). <a href="http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=74275116&amp;site=eds-live&amp;scope=site">link</a></p>
+<p>Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. &quot;Data Sharing by Scientists: Practices and Perceptions.&quot; <em>Plos ONE</em> 6, no. 6: 1-21. Academic Search Complete, EBSCOhost (accessed January 19, 2014). <a href="http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=74275116&amp;site=eds-live&amp;scope=site">link</a></p>
 <h2 id="week-2---introduction-to-vector-data"><a href="#week-2---introduction-to-vector-data">Week 2 - Introduction to Vector Data</a></h2>
 <h3 id="background"><a href="#background">Background</a></h3>
 <p>This week we begin our consideration of the different classes of geospatial data that you are likely to encounter - both as you search for data to use in your research and as you produce data with a spatial component that you need to integrate into a spatial data management system or workflow. Our focus is on <em>vector</em> datasets this week, with a particular emphasis on the general types of vector data <em>features</em> you need to be aware of, and the key linkage between vector <em>geometries</em> and the <em>attributes</em> that are linked to those features. While the introductory lecture focuses on these aspects of vector datasets, the concepts of <em>map projections</em> or <em>coordinate reference systems</em> as introduced in the reading are also core concepts that you will need to understand in the context of all spatial data that you work with. Next week's lecture will include a more detailed overview of map projections (and focus on raster data), but for now see what you can also pick up from the reading as it blends both vector and raster data and map projections into a single chapter.</p>
@@ -280,11 +280,31 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 <p>Continue working on data review assignment</p>
 <h2 id="week-7---managing-raster-data"><a href="#week-7---managing-raster-data">Week 7 - Managing Raster Data</a></h2>
 <h3 id="background-5"><a href="#background-5">Background</a></h3>
-<p>TBA</p>
+<p>Much of our focus thus far has been on database development, and concepts related to the management of data that link most directly into the vector data model - geometries and their associated attributes. This week we will concentrate on the characteristics of raster data, and highlight some tools and strategies for creating and managing raster data products.</p>
 <h3 id="expected-outcomes-and-key-concepts-3"><a href="#expected-outcomes-and-key-concepts-3">Expected Outcomes and Key Concepts</a></h3>
-<p>TBA</p>
+<p>Following this week's work you should understand the following:</p>
+<ul>
+<li>The circumstances in which you might use a raster as opposed to vector data model for you data</li>
+<li>The concept of spatial resolution as it relates to raster data</li>
+<li>Some of the processing and analysis functions that may be applied to raster data</li>
+<li>The basic functionality of the GDAL utilities for characterizing and transforming raster datasets.</li>
+</ul>
 <h3 id="reading-5"><a href="#reading-5">Reading</a></h3>
-<p>TBA</p>
+<p>&quot;Raster&quot; in the <a href="http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=e000xna&amp;AN=474337&amp;site=eds-live&amp;scope=site&amp;ebv=EB&amp;ppid=pp_361">Encyclopedia of Geographic Information Science</a></p>
+<p>Revisit the Quantum GIS User Guide - particularly the section on <a href="http://www.qgis.org/en/docs/user_manual/working_with_raster/index.html">Raster Data</a>.</p>
+<p>Review the documentation for the <a href="http://www.gdal.org/gdal_utilities.html">GDAL Utilities</a>, particularly</p>
+<ul>
+<li><a href="http://www.gdal.org/gdalinfo.html"><code>gdalinfo</code></a></li>
+<li><a href="http://www.gdal.org/gdal_translate.html"><code>gdal_translate</code></a></li>
+<li><a href="http://www.gdal.org/gdalwarp.html"><code>gdalwarp</code></a></li>
+</ul>
+<p>as these utilities based upon the GDAL library for processing Raster datasets provide very useful tools for interrogating and transforming raster data. For complementary capabilities for vector datasets, review the documentation for the OGR-related utilities:</p>
+<ul>
+<li><a href="http://www.gdal.org/ogrinfo.html"><code>ogrinfo</code></a></li>
+<li><a href="http://www.gdal.org/ogr2ogr.html"><code>ogr2ogr</code></a></li>
+</ul>
+<p>All of these GDAL and OGR utilities are included as part of the installation process of QGIS on your computer, and are accessible through the OSGEO4W shell in Windows, or from the terminal under the Mac OS.</p>
+<p>Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. (<a href="http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=e000xna&amp;AN=350538&amp;site=eds-live&amp;scope=site">link for access page for downloadable eBook - expires</a>) (<a href="http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=cat00503a&amp;AN=unm.b7920432&amp;site=eds-live&amp;scope=site">link for access page for online eBook</a>). <em>Chapter 3</em>. With a particular focus on the discussion around GDAL and OGR as both of these libraries provide powerful capabilities for working with raster and vector data, both outside of and within Python.</p>
 <h3 id="assignment-5"><a href="#assignment-5">Assignment</a></h3>
 <p>Continue working on data review assignment</p>
 <h2 id="week-8---data-formats-for-analysis-and-archiving"><a href="#week-8---data-formats-for-analysis-and-archiving">Week 8 - Data Formats for Analysis and Archiving</a></h2>
