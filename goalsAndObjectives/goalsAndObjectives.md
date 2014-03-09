@@ -317,15 +317,28 @@ Continue working on data review assignment
 
 ### Background ###
 
-TBA
+Thus far we have concentrated on data formats in general as they relate to the storage and use of different types of geospatial data. This week, we consider a set of considerations that relate to the long-term archival storage, access and use of geospatial data. Specifically, this week's reading and discussion in this week's collaboratory focus on the diversity of geospatial data formats, with a particular emphasis on the characteristics of those formats that make them good (or not good) candidates for use when transitioning geospatial data into a long-term archive. 
 
 ### Expected Outcomes and Key Concepts ###
 
-TBA
+Following this week's work you should understand the following:
+
+* The factors that influence the utility of various digital geospatial formats for archival use
+* The particular characteristics of digital geospatial formats that relate to their usability in geospatial analysis and visualization work
+* The capabilities of key digital geospatial formats relative to these factors and characteristics
 
 ### Reading ###
 
-TBA
+Sustainability of Digital Formats - Planning for Library of Congress Collections. [Link](http://www.digitalpreservation.gov/formats/content/gis.shtml)
+
+* Quality and functional factors
+* Introduction to Geospatial Resources and Formats
+* Format description documents
+
+The National Geospatial Digital Archive Project documents. [Link](http://www.digitalpreservation.gov/partners/ngda.html), Especially: 
+
+* The [NGCA Final report](http://www.ngda.org/docs/ngda-final-report.pdf)
+* The [Report to National Geospatial Digital Archive Regarding Geospatial Data Treatment in Data Format Registry Efforts](http://www.ngda.org/docs/CINGDAfindingspub121509.pdf)
 
 ### Assignment ###
 
