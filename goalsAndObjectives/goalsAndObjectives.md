@@ -367,15 +367,39 @@ Enumerate the specific datasets that you will create and document as part of you
 
 ### Background ###
 
-TBA
+When approaching the problem of documenting data during analysis, for sharing with collaborators, and for long-term sharing and access through an archive, multiple dimensions of information and structure must be considered. The readings introduced this week (and continuing for the next several weeks) cover the diverse issues, challenges and initiatives related to metadata creation and data curation. Whether you are working with others in support of metadata creation, or are creating you own metadata, the process of metadata development can be conceptualized in terms of an interview - with you playing either the role of the interviewer or interviewee. In the context of the metadata development interview, the following questions should be asked and answered:
 
-### Expected Outcomes and Key Concepts ###
+* Data content and structure
+	* What do the data represent (measurements/observations)
+	* How are they structured (i.e. format)
+	* What are the accuracy and precision of the data
+* Context
+	* Where, when and how were the data collected
+	* What processing steps were followed in the production of the data
+	* Who was responsible for data collection and how may they be contacted 
+	* What is the research domain for which the data were collected
+	* For what purpose were the data collected/produced
+	* Are the data part of a larger collection (e.g. an ongoing series of measurements or a set of otherwise related data products)
+* Related Standards, Practices and  Resources
+	* Are there existing archives that specialize in the preservation of the data
+	* Are there existing documentation standards that are commonly used by those archives or the research domain to which the data pertain
+	* What data citation standards are practiced within the specific research domain - what information is required to support those data citation standards
+	* How do the data products align with the norms, protocols or standards for integration into the target archive(s)
 
-TBA
 
-### Reading ###
+### Reading (for weeks 10-13) ###
 
-TBA
+Kervin, Karina, William Michener, Robert Cook (2013). "Common Errors in Ecological Data Sharing". *Journal of eScience Librarianship*. Vol. 2, Issue 2. [http://escholarship.umassmed.edu/jeslib/vol2/iss2/1/](http://escholarship.umassmed.edu/jeslib/vol2/iss2/1/)
+
+DCC Curation Reference Manual - *Appraisal and Selection* chapter. [http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/appraisal-and-selection](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/appraisal-and-selection)
+
+DCC Curation Reference Manual - *Metadata* chapter. [http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/metadata](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/metadata)
+
+DCC Curation Reference Manual - *Preservation Metadata* chapter. [http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/preservation-metadata](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/preservation-metadata)
+
+DCC Curation Reference manual - *Preservation Scenarios for Projects Producing Digital Resources* [http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/preservation-scenarios-dh](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/preservation-scenarios-dh)
+
+DCC Curation Reference Manual - *Scientific Metadata* chapter. [http://www.dcc.ac.uk/resources/curation-reference-manual/chapters-production/scientific-metadata](http://www.dcc.ac.uk/resources/curation-reference-manual/chapters-production/scientific-metadata)
 
 ### Class Project ###
 
