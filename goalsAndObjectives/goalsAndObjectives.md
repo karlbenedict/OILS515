@@ -414,19 +414,30 @@ Begin creating class project datasets
 
 ### Background ###
 
-TBA
+The World Wide Web Consortium's ([W3C](http://www.w3.org/)) specification of the `Extensible Markup Language` ([XML](http://www.w3.org/standards/xml/)) has become the common standard format for many documentation (metadata) standards. As a machine readable (and validatable) data format that is also *somewhat* human-readable, XML is a core technology in the exchange of structured data in a platform-independent, standards-based format. The XML standard defines both core *structural* requirements that any XML file must meet to be considered *well-formed* XML, and provides for extensibility and validation using either *document type definition* or *schema* definitions. This extensibility allows for the definition of application-specific XML data content models that may be validated both in terms of structure and content, using a variety of XML *validation* technologies. Before embarking on the creation of XML-based spatial metadata over the next two weeks, we must first become familiar with the basics of the XML specification - that is the goal of this week's work. 
 
 ### Expected Outcomes and Key Concepts ###
 
-TBA
+Following this week's work you should understand the following
+
+* XML is a standard upon which structured data may be exchanged between computer systems
+* XML may be created using any standard text editor, but specialized editors make this process easier
+* XML may (and should) be validated, both for consistency with the XML structural requirements (well-formed) and with any defined content specification (valid as defined by a DTD or Schema) 
 
 ### Reading ###
 
-TBA
+Continue metadata readings from Week 11. 
+
+View the *XML Essential Training* Course on Lynda.com: [http://www.lynda.com/XML-tutorials/XML-Essential-Training/145930-2.html?org=unm.edu](http://www.lynda.com/XML-tutorials/XML-Essential-Training/145930-2.html?org=unm.edu)
+
+### Class Project ###
+
+Continue creating class project datasets
 
 
+### Note on Software ###
 
-
+This week you may want to consider downloading an XML editor (such as [Aptana Studio](http://aptana.com/products/studio3) as used in the Lynda.com tutorial, or [Oxygen](http://www.oxygenxml.com/) for which I can provide you with a Student License) as an alternative to creating your XML documents in a standard OS-provided text editor such as `notepad` (Windows) or a freely downloadable text editor such as `notepad++` ([download link](http://notepad-plus-plus.org/) for Windows) or `textwrangler` ([download link](http://www.barebones.com/products/textwrangler/) for Mac).  
 
 
 
