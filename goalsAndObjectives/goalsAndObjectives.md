@@ -445,21 +445,29 @@ This week you may want to consider downloading an XML editor (such as [Aptana St
 
 ### Background ###
 
-TBA
+Following our introduction to general metadata concepts and principles two weeks ago, and the overview of XML technologies last week, we are now ready to begin our consideration of specific metadata standards that are relevant to the documentation of geospatial data products. This week we focus on the Federal Geospatial Data Committee's *Content Standard for Digital Geospatial Metadata* (CSDGM), the continuing but aging US Federal geospatial metadata standard. While it is slowly being replaced by the ISO 19115-2 and related standards (our focus for next week), there remain a large number of FGDC metadata records and tools "in the wild", and because of this remains very relevant when considering metadata standards related to geospatial data. 
 
 ### Expected Outcomes and Key Concepts ###
 
-TBA
+Following this week's work should understand the following:
+
+* The basic structural and content model for FGDC metadata
 
 ### Reading ###
 
-TBA
+[FGDC Geospatial Metadata Standards](http://www.fgdc.gov/metadata/geospatial-metadata-standards) web page and related materials. This page is an access point for both the FGDC CSDGM and other FGDC approved standards. 
+
+[Graphical Representation of the FGDC CSDGM](http://www.fgdc.gov/csdgmgraphical/index.html)
+
+FGDC (2000). *Content Standard for Digital Geospatial Metadata Workbook*. Version 2.0, May 1, 2000. [http://www.fgdc.gov/metadata/documents/workbook_0501_bmk.pdf](http://www.fgdc.gov/metadata/documents/workbook_0501_bmk.pdf)
 
 ### Class Project ###
 
 Begin creating documentation for class project datasets
 
+### Note on Software ###
 
+When creating FGDC metadata your can use an [online validation tool](http://geo-nsdi.er.usgs.gov/validation/) as a complement to local validation with your XML tool of choice. 
 
 
 
