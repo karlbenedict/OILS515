@@ -449,7 +449,7 @@ Following our introduction to general metadata concepts and principles two weeks
 
 ### Expected Outcomes and Key Concepts ###
 
-Following this week's work should understand the following:
+Following this week's work students should understand the following:
 
 * The basic structural and content model for FGDC metadata
 
@@ -476,19 +476,47 @@ When creating FGDC metadata your can use an [online validation tool](http://geo-
 
 ### Background ###
 
-TBA
+The FGDC's CSDGM was an early structured metadata standard from which lessons have been learned, contributing to the thinking that has gone into the development of the family of geospatial metadata standards developed by the International Standards Organization's Technical Committee 211. Of specific relevance in the context of our work here are the ISO 19115, ISO 19115-2 and ISO 19139 standards for documenting geospatial data. While the actual standards must be purchased from ISO, a large amount of documentation has been developed by a number of organizations - particularly the National Oceanographic and Atmospheric Administration (a number of their resources are included in this week's reading). While a large number of FGDC metadata records exist as legacy products from many geospatial organizations, new metadata creation is probably best done in the context of the ISO standards as they provide a more structured and complete model for capturing more detailed information if it is available. 
+
+In contrast with the FGDC and ISO metadata standards that we have already discussed, Dublin Core is a more general documentation standard that is widely used in the library community and beyond. Dublin Core is a documentation standard that is based, in contrast to the XML-based FGDC and ISO standards, on the W3C's Resource Description Framework ([RDF](http://www.w3.org/RDF/)), the foundation for the emerging open linked data model for data integration across the web. RDF is explicitly built upon the construction of linkages between semantically linked information pieces that are defined in a way that allows for their reuse and integration, by reference, into knowledge about other resources (i.e. datasets, measurement types, units, people, objects, publications, etc.). While the FGDC and ISO standards include robust specifications for defining spatial references, Dublin Core's `coverage` property provides for only very basic geospatial reference information. 
 
 ### Expected Outcomes and Key Concepts ###
 
-TBA
+Following this week's work, the following concepts should be understood:
+
+* The relationship between the FGDC and ISO geospatial metadata standards for documenting geospatial data
+* The basic strategies for developing ISO metadata and the overall structural and content model for ISO metadata
+* The distinction between the XML and RDF structural models for metadata
+* The high-level content types for Dublin Core metadata
+
 
 ### Reading ###
 
-TBA
+[NOAA EDM ISO FAQ](https://geo-ide.noaa.gov/wiki/index.php?title=ISO_FAQ) - this wiki page provides some useful points of information (particularly [this one ](http://tinyurl.com/p24aon4) regarding getting started creating ISO metadata) about the ISO geospatial metadata standard and includes links to other helpful sites. 
+
+NOAA National Coastal Data Development Center [Metadata standards page](http://www.ncddc.noaa.gov/metadata-standards/) - particularly the linked reference materials for the
+
+* [ISO 19115:2003 Geographic Information - Metadata Workbook](http://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf) - scan for reference
+
+* [ISO 19115-2:2009 Geographic Information - Metadata - Part 2: Extensions for imagery and gridded data](http://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MI-Metadata.pdf) - scan for reference
+
+[FGDC Geospatial Metadata Standards page](http://www.fgdc.gov/metadata/geospatial-metadata-standards) web page with basic information and associated links to related materials for the ISO and related standards in addition to the CSDGM.
+
+The [Dublin Core Users Guide](http://wiki.dublincore.org/index.php/User_Guide) describes the basic concepts behind the Dublin Core standard, its use of the W3C RDF Open Linked data model, and its role in the broader global system of metadata. Of specific interest in the context of geospatial metadata in the Dublin Core standard is the [coverage](http://tinyurl.com/pubjloq) property. 
 
 ### Assignment ###
 
-Create a data management plan
+Create a data management plan (start)
+
+### Notes on Software ###
+
+ArcGIS ArcCatalog includes a basic editor for creating ISO metadata that can then be brought into a dedicated XML editor for completion or further editing. Information about the ISO standards and ESRI's support for them is available [here](http://resources.arcgis.com/en/help/main/10.2/index.html#//003t00000039000000). 
+
+ Quantum GIS also has an experimental plugin called [metatools](http://plugins.qgis.org/plugins/metatools/) that supports the import, viewing and editing of FGDC and ISO metadata. As an experimental plugin your mileage may vary. 
+
+### Required Collaboratory Session ###
+
+Data management planning Q&A
 
 
 
