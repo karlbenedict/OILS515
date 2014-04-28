@@ -560,15 +560,17 @@ Digital Curation Centre (DCC - Edinburgh):
 
 ### Background ###
 
-TBA
+This week we continue our work in Data Management Planning - moving from the general principles of data management planning to the specifics of the agency data management planning requirements for reference. While the principles and core concepts outlined last week are broadly applicable, each funding agency has its own specific requirements and standards for the plans that they expect to be submitted in response to their solicitations. 
 
 ### Expected Outcomes and Key Concepts ###
 
-TBA
+After completing this week's materials students you will understand the following 
 
 ### Reading ###
 
-TBA
+The [DMPTool](https://dmp.cdlib.org/) provides a valuable [listing of links](https://dmp.cdlib.org/pages/funder_requirements) to agency guidelines for data management planning and templates based upon those guidelines. Review at least two of the NSF-related DMP guidelines and choose at least one other non-NSF guideline as well for review.  
+
+The UK's [Digital Curation Centre](http://www.dcc.ac.uk/) also provides a [useful collection](http://www.dcc.ac.uk/resources/data-management-plans/funders-requirements) of links to resources related to key UK agency data management requirements. While you may not be developing plans for submission to these agencies, reviewing the requirements of other agencies can help to gain an understanding of the patterns of data management plan requirements. Please review a couple of the agency-specific guidelines for context. 
 
 ### Assignment ###
 
@@ -598,7 +600,10 @@ TBA
 
 ### Reading ###
 
-TBA
+Myron P. Gutmann and Paul C. Stern (Editors). 2007. PDF available for download from the National Academies Press: [http://www.nap.edu/catalog/11865.html](http://www.nap.edu/catalog/11865.html)
+
+* *Executive Summary* - pp. 1-5
+* Levine, Felice J., and Joan E. Sieber. *Ethical Issues Related to Linked Social-Spatial Data* - pp. 123-159
 
 ### Class Project ###
 
