@@ -7,8 +7,8 @@ An understanding of core spatial data concepts and principles is increasingly im
 * Spatial database design and management
 * Working with and managing gridded data
 * Spatial data documentation standards and practices
-* Ethical, legal and privacy issues as they relate to spatial data
 * Data management planning 
+* Ethical, legal and privacy issues as they relate to spatial data
 * Emerging topics
 
 Upon completion of the course students will have improved their knowledge and skills in the following areas:
@@ -21,13 +21,13 @@ Upon completion of the course students will have improved their knowledge and sk
 
 ## Week 1 - Introductions, Course Overview and Introduction to the Research and Data Lifecycles ##
 
-This week's required "collaboratory" session (Tuesday afternoon, 5:00-6:30 - method TBA) will allow us to share some background about each other, review the class structure and objectives and have a brief overview of the research and data lifecycles and the linkages beween them. While this week's lecture will be done "live" during our collaboratory session, future lectures will be pre-recorded and accessible at the beginning of each class week.  
+This week's required "collaboratory" session will allow us to share some background about each other, review the class structure and objectives and have a brief overview of the research and data lifecycles and the linkages beween them.   
 
 ### Reading ###
 
-Piwowar, Heather A., Roger S. Day, and Douglas B. Fridsma. 2007 "Sharing Detailed Research Data Is Associated with Increased Citation Rate." Plos One 2, no. 3: Science Citation Index, EBSCOhost (accessed January 20, 2014). [link](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0000308)
+Piwowar, Heather A., Roger S. Day, and Douglas B. Fridsma. 2007 "Sharing Detailed Research Data Is Associated with Increased Citation Rate." Plos One 2, no. 3: Science Citation Index, EBSCOhost (accessed November 21, 2014). [link](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0000308)
 
-Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. "Data Sharing by Scientists: Practices and Perceptions." *Plos ONE* 6, no. 6: 1-21. Academic Search Complete, EBSCOhost (accessed January 19, 2014). [link](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=74275116&site=eds-live&scope=site)
+Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. "Data Sharing by Scientists: Practices and Perceptions." *Plos ONE* 6, no. 6: 1-21. Academic Search Complete, EBSCOhost (accessed November 21, 2014). [link](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=74275116&site=eds-live&scope=site)
 
 
 
@@ -97,12 +97,12 @@ After reviewing this week's lecture and completing the reading, you should under
 
 Review the readings from last week as they relate to the raster data and other data concepts that will be covered in this week's lecture and demonstration. 
 
-NationalAtlas.gov. *Map Projections: From Spherical Earth to Flat Map*. Online resource: [http://nationalatlas.gov/articles/mapping/a_projections.html](http://nationalatlas.gov/articles/mapping/a_projections.html). Accessed on 2/2/2014. 
+Intergovernmental Committee on Surveying and Mapping - Anzlic Committee on Surveying & Mapping. *About Projections*. Online resource: [http://www.icsm.gov.au/mapping/about_projections.html](http://www.icsm.gov.au/mapping/about_projections.html). Accessed on 11/21/2014. 
 
 Quantum GIS (QGIS) Documentation:
 
-* [A gentle introduction to GIS](http://www.qgis.org/en/docs/gentle_gis_introduction/index.html)
-* [User's Guide (skim for reference and familiarity with content and organization)](http://www.qgis.org/en/docs/user_manual/index.html)
+* [A gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/)
+* [User's Guide (skim for reference and familiarity with content and organization)](http://docs.qgis.org/2.2/en/docs/user_manual/index.html)
 
 ### Assignment ###
 
@@ -286,7 +286,7 @@ Following this week's work you should understand the following:
 
 "Raster" in the [Encyclopedia of Geographic Information Science](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=474337&site=eds-live&scope=site&ebv=EB&ppid=pp_361)
 
-Revisit the Quantum GIS User Guide - particularly the section on [Raster Data](http://www.qgis.org/en/docs/user_manual/working_with_raster/index.html). 
+Revisit the Quantum GIS User Guide - particularly the section on [Raster Data](http://docs.qgis.org/2.2/en/docs/user_manual/working_with_raster/index.html). 
 
 Review the documentation for the [GDAL Utilities](http://www.gdal.org/gdal_utilities.html), particularly 
 
@@ -317,7 +317,7 @@ Continue working on data review assignment
 
 ### Background ###
 
-Thus far we have concentrated on data formats in general as they relate to the storage and use of different types of geospatial data. This week, we consider a set of considerations that relate to the long-term archival storage, access and use of geospatial data. Specifically, this week's reading and discussion in this week's collaboratory focus on the diversity of geospatial data formats, with a particular emphasis on the characteristics of those formats that make them good (or not good) candidates for use when transitioning geospatial data into a long-term archive. 
+Thus far we have concentrated on data formats in general as they relate to the storage and use of different types of geospatial data. This week, we consider a set of issues that relate to the long-term archival storage, access and use of geospatial data. Specifically, this week's reading and discussion in this week's collaboratory focus on the diversity of geospatial data formats, with a particular emphasis on the characteristics of those formats that make them good (or not good) candidates for use when transitioning geospatial data into a long-term archive. 
 
 ### Expected Outcomes and Key Concepts ###
 
@@ -437,7 +437,7 @@ Continue creating class project datasets
 
 ### Note on Software ###
 
-This week you may want to consider downloading an XML editor (such as [Aptana Studio](http://aptana.com/products/studio3) as used in the Lynda.com tutorial, or [Oxygen](http://www.oxygenxml.com/) for which I can provide you with a Student License) as an alternative to creating your XML documents in a standard OS-provided text editor such as `notepad` (Windows) or a freely downloadable text editor such as `notepad++` ([download link](http://notepad-plus-plus.org/) for Windows) or `textwrangler` ([download link](http://www.barebones.com/products/textwrangler/) for Mac).  
+This week you may want to consider downloading an XML editor (such as [Aptana Studio](http://www.aptana.com/products/studio3.html) as used in the Lynda.com tutorial, or [Oxygen](http://www.oxygenxml.com/) as an alternative to creating your XML documents in a standard OS-provided text editor such as `notepad` (Windows) or a freely downloadable text editor such as `notepad++` ([download link](http://notepad-plus-plus.org/) for Windows) or `textwrangler` ([download link](http://www.barebones.com/products/textwrangler/) for Mac).  
 
 
 
@@ -556,7 +556,7 @@ Digital Curation Centre (DCC - Edinburgh):
 
 
 
-## Week 15 - Data Management Planning (continued) ~~Ethical, legal and privacy issues~~ ##
+## Week 15 - Data Management Planning (continued) ##
 
 ### Background ###
 
@@ -568,7 +568,7 @@ After completing this week's materials students you will understand the followin
 
 ### Reading ###
 
-The [DMPTool](https://dmp.cdlib.org/) provides a valuable [listing of links](https://dmp.cdlib.org/pages/funder_requirements) to agency guidelines for data management planning and templates based upon those guidelines. Review at least two of the NSF-related DMP guidelines and choose at least one other non-NSF guideline as well for review.  
+The [DMPTool](https://dmp.cdlib.org/) provides a valuable [listing of links](https://dmptool.org/guidance) to agency guidelines for data management planning and templates based upon those guidelines. Review at least two of the NSF-related DMP guidelines and choose at least one other non-NSF guideline as well for review.  
 
 The UK's [Digital Curation Centre](http://www.dcc.ac.uk/) also provides a [useful collection](http://www.dcc.ac.uk/resources/data-management-plans/funders-requirements) of links to resources related to key UK agency data management requirements. While you may not be developing plans for submission to these agencies, reviewing the requirements of other agencies can help to gain an understanding of the patterns of data management plan requirements. Please review a couple of the agency-specific guidelines for context. 
 

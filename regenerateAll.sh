@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export PATH=${PATH}:/usr/texbin
-cd ~/Dropbox/Active/Repos/Teaching/OILS515
+cd .
 
 # Syllabus
 ./generate.sh

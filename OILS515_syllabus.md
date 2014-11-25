@@ -7,20 +7,18 @@ Course Instructor
 -----------------
 Karl Benedict
  
-* Director, Earth Data Analysis Center (EDAC)
-* Assistant Research Professor, College of University Libraries and Learning Sciences
-* Assistant Research Professor, Department of Geography
+* Associate Professor, College of University Libraries and Learning Sciences
+* Affiliated Faculty, Department of Geography
 * Adjunct Professor, Department of Anthropology
  
 *Email*: [kbene@unm.edu](mailto:kbene@unm.edu)
 
-*Phone*: (505) 277-3622 x234
+*Phone*: (505) 277-5256
 
-*Office Hours*: Tuesdays from 4-5 pm in CSEL L172 and by appointment. 
+*Office Hours*: Wednesdays from 4-5 pm in CSEL L259 and by appointment. 
 
 | *Office Location*:
-| EDAC - Bandelier West, Rm. 107
-| Centennial Science and Engineering Library - CSEL L172
+| Centennial Science and Engineering Library - CSEL L259
 
 
 Course Description and Objectives
@@ -32,8 +30,8 @@ An understanding of core spatial data concepts and principles is increasingly im
 * Spatial database design and management
 * Working with and managing gridded data
 * Spatial data documentation standards and practices
-* Ethical, legal and privacy issues as they relate to spatial data
 * Data management planning 
+* Ethical, legal and privacy issues as they relate to spatial data
 * Emerging topics
 
 Upon completion of the course students will have improved their knowledge and skills in the following areas:
@@ -47,14 +45,14 @@ Upon completion of the course students will have improved their knowledge and sk
 
 Course Format
 -------------
-The course is structured as a combination of short lectures that set the stage for the technical topics covered in the readings, hands-on work with data and data documentation, and data management planning exercises. While offered as an online course, several online web conferences are required as part of the class participation. These sessions are plananed for Tuesday evenings from 5:00-6:30 pm and listed under the "Collaboratory" column in the class calendar. 
+The course is structured as a combination of short lectures/demonstrations (presented as part of our concurrent collaboratory sessions) that set the stage for the technical topics covered in the readings, hands-on work with data and data documentation, and data management planning exercises. While offered as an online course, several online web conferences (collaboratory sessions) are required as part of the class participation. These sessions are plananed for Wednesday evenings from 5:00-6:30 pm and listed under the "Collaboratory" column in the class calendar. 
 
 
 Readings
 --------
-Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site)[SDM]
+Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [http://unm.worldcat.org/title/spatial-data-management/oclc/767844616&referer=brief_results](http://unm.worldcat.org/title/spatial-data-management/oclc/767844616&referer=brief_results)[SDM]
 
-Michael J. Hernandez (2003). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 2nd ed. Addison-Wesley. [http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b3649820&site=eds-live&scope=site](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b3649820&site=eds-live&scope=site)[DBD]
+Michael J. Hernandez (2003). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 3rd ed. Addison-Wesley. [http://unm.worldcat.org/title/database-design-for-mere-mortals-a-hands-on-guide-to-relational-database-design/oclc/872560697?ht=edition&referer=di](http://unm.worldcat.org/title/database-design-for-mere-mortals-a-hands-on-guide-to-relational-database-design/oclc/872560697?ht=edition&referer=di)[DBD]
 
 Additional online readings will also be assigned over the course of the semester. 
 
@@ -100,60 +98,61 @@ Broadband internet connectivity. Some wireless networks may not be sufficient an
 
 Weekly Schedule
 ---------------
------------------------------------------------------------------------------------------------------------------------------------------------
-Week       Date       Topic                     Collaboratory                   Reading            Assignment          Project
----------- ---------- ------------------------- ------------------------------- ------------------ ------------------  ------------------------
-1          1/21        Course Overview -         Class Introduction              TBD                -                   -
+----------------------------------------------------------------------------------------------------------------------------
+Week       Date       Topic                     Collaboratory                   Assignment          Project
+---------- ---------- ------------------------- ------------------------------- ------------------  ------------------------
+1          1/12        Course Overview -         1/14-Class Introduction         -                   -
                        Introduction to the Data  
                        Lifecycle 
   
-2          1/27        Types of Spatial Data -   -                               TBD                Domain specific     Define data management
-                       Vector                                                                       literature review   focus for term
+2          1/19        Types of Spatial Data -   -                               Domain specific     Define data management
+                       Vector                                                    literature review   focus for term
   
-3          2/3         Types of Spatial Data -   -                               TBD                -                   -
+3          1/26        Types of Spatial Data -   -                               -                   -
                        Raster 
   
-4          2/10        Database design I         Discuss literature review       TBD                Post literature     -
-                                                 results                                            review to 
-                                                                                                    discussion 
+4          2/02        Database design I         2/04-Discuss literature         Post literature     -
+                                                 review results                  review to 
+                                                                                 discussion 
   
-5          2/17        Database design II        -                               TBD                Locate and describe -
-                                                                                                    data and review for  
-                                                                                                    documentation,  
-                                                                                                    usability and  
-                                                                                                    understanding 
+5          2/09        Database design II        -                               Locate and describe -
+                                                                                 data and review for  
+                                                                                 documentation,  
+                                                                                 usability and  
+                                                                                 understanding 
  
-6          2/24        Geodatabase design        -                               TBD                -                   -
+6          2/16        Geodatabase design        -                               -                   -
  
-7          3/3         Managing raster data      -                               TBD                -                   -
+7          2/23        Managing raster data      -                               -                   -
  
-8          3/10        Data formats for          *Presentations* of data         TBD                -                   Enumerate specific data 
-                       Analysis and Archiving    review                                                                 (>= three datasets) to be 
-                                                                                                                        used in the project
+8          3/02        Data formats for          3/04-*Presentations* of data    -                   Enumerate specific data 
+                       Analysis and Archiving    review                                              (>= three datasets) to be 
+                                                                                                     used in the project
  
-9          3/17        Spring Break              -                               -                  -                   -
+9          3/09        Spring Break              -                               -                   -
  
-10         3/24        Documenting data -        -                               TBD                -                   Create initial data
+10         3/16        Documenting data -        -                               -                   Create initial data
                        the interview
  
-11         3/31        XML Document creation,    -                               TBD                -                   -
+11         3/23        XML Document creation,    -                               -                   -
                        editing and validation 
  
-12         4/7         Metadata Standards -      -                               TBD                -                   Document Data
+12         3/30        Metadata Standards -      -                               -                   Document Data
                        FGDC
  
-13         4/14        Metadata Standards -      Data management planning        TBD                Create a data       -
-                       ISO and Dublin Core       process Q&A                                        management plan
+13         4/06        Metadata Standards -      4/08-Data management planning   Create a data       -
+                       ISO and Dublin Core       process Q&A                     management plan
  
-14         4/21        Data management planning  -                               TBD                -                   -
+14         4/13        Data management planning  -                               -                   -
  
-15         4/28        Ethical, legal and        -                               TBD                Data management     Project data and 
-                       privacy issues                                                               plan peer review    documentation peer review
+15         4/20        Data management planning  -                               Data management     Project data and 
+                       (continued)                                               plan peer review    documentation peer review
  
-16         5/5         Emerging concepts         *Project Presentations*         TBD                -                   Present project results 
-                                                                                                                        and peer review outcome
+16         4/27        Emerging concepts/        4/29-*Project Presentations*         -                   Present project results 
+                       Ethical, legal and                                                            and peer review outcome
+                       privacy issues
  
-17         5/12        Finals Week               -                               -                  -                   -
------------------------------------------------------------------------------------------------------------------------------------------------
+17         5/04        Finals Week               -                               -                   -
+----------------------------------------------------------------------------------------------------------------------------
 
 <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
