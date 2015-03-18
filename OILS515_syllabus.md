@@ -15,7 +15,7 @@ Karl Benedict
 
 *Phone*: (505) 277-5256
 
-*Office Hours*: Wednesdays from 4-5 pm in CSEL L259 and by appointment. 
+*Office Hours*: By appointment. 
 
 | *Office Location*:
 | Centennial Science and Engineering Library - CSEL L259

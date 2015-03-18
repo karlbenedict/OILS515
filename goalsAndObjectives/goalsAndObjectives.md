@@ -173,7 +173,7 @@ and, as a beginning of our Python thread for the class, I recommend the followin
 
 ### Assignment ###
 
-Please be prepared to give an ~10-minute presentation to the class over our Google Hangout during the Collaboratory Session this week on Tuesday from 5:00-6:30 pm. The presentation should address the requested information in the assignment for each of the items you addressed in your literature review:
+Please be prepared to give an ~10-minute presentation to the class over our Google Hangout during this week's Collaboratory Session. The presentation should address the requested information in the assignment for each of the items you addressed in your literature review:
 
 Complete Citation
 :	A complete citation that would allow another researcher to locate the publication that you used. If available, provide the DOI (Digital Object Identifier) and online link for the publication. 
@@ -184,11 +184,11 @@ Summary
 Relevance
 :	A discussion of the relevance of the publication's findings to your interest in spatial data management in your research area/project. 
 
-Please post your writeup as a new "Thread" in the class's "Literature Review Results" discussion forum in Learn. 
+Please post your writeup in the class' collaboration space. 
 
 ### Class Project ###
 
-Please continue your work in defining your data management focus for the term. Please schedule a time for us to "meet" to discuss your thoughts on this before 2/19 so we can make sure you are on track to be able to begin defining the specific datasets that you will be producing and documenting as part of your term project. 
+Please continue your work in defining your data management focus for the term. Please schedule a time for us to "meet" to discuss your thoughts on this by the end of *Week 6* so we can make sure you are on track to be able to begin defining the specific datasets that you will be producing and documenting as part of your term project. 
 
 
 
