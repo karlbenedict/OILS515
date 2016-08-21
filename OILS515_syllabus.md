@@ -59,6 +59,8 @@ Michael J. Hernandez (2013). Database Design for Mere Mortals: a Hands-on Guide 
 
 Additional online readings will also be assigned over the course of the semester. 
 
+The readings for each week are provided in the separate Goals and Objectives document. ([Web page](http://karlbenedict.com/OILS515/goalsAndObjectives/goalsAndObjectives.html)) | ([PDF](http://karlbenedict.com/OILS515/goalsAndObjectives/goalsAndObjectives.pdf))
+
 #Evaluation and Grading
 
 Course grades will be based on a combination of participation in live and online discussions and peer-review, the smaller assignments (listed under the "Assignment" column in the class calendar), and the semester-long class project. The grade for the class will be weighted according to the following breakdown:
