@@ -44,6 +44,7 @@ Upon completion of the course students will have improved their knowledge and sk
 * Documenting data as an ongoing process throughout the research cycle
 * Producing machine- and human-readable documentation for data to support discovery, understanding, and use of data that they produce
 
+Detailed weekly objectives are available in the separate Goals and Objectives document. ([Web page](http://karlbenedict.com/OILS515/goalsAndObjectives/goalsAndObjectives.html)) | ([PDF](http://karlbenedict.com/OILS515/goalsAndObjectives/goalsAndObjectives.pdf))
 
 # Course Format
 
