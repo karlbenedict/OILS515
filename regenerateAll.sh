@@ -6,11 +6,6 @@ cd .
 # Syllabus
 ./generate.sh
 
-# assignments
-cd ./assignments
-./generate.sh
-cd ..
-
 # goalsAndObjectives
 cd ./goalsAndObjectives
 ./generate.sh
