@@ -1,8 +1,8 @@
-% Organization, Information, and Learning Sciences (OILS) 515 - Introduction to Spatial Data Management - Syllabus
+% Organization, Information, and Learning Sciences (OILS) 515 / Geography and Environmental Studies (GEOG) 522 - Introduction to Spatial Data Management - Syllabus
 % Karl Benedict, Associate Professor - College of University Libraries and Learning Sciences
-% Fall 2016
+% Fall 2017
 
-Many data products are inherently spatial. Obviously spatial data include data collection locations, but many other data may also be considered spatial: locations in space that documents pertain to and locations of historic or literary events illustrating just a few. While maps are a familiar product derived from spatial data, there is significant understanding of the underlying data -- the processes to which it has been subjected, the actual values within the data, the originator of the data, any limitations in the appropriate use of the data, and the nature of the dataset itself (format, scale, coordinate system, units) -- that is required before it can be productively used for research or applications. This course is designed to provide graduate-level students with the necessary skills and knowledge to meet this challenge through hands-on work in _discovering_, _creating_, _managing_, _using_, _documenting_ and _sharing_ spatial data. After completing this course students will be better prepared to develop a plan for the management of their spatial data, locate and evaluate data sources that they need for their research, create and structure data that they collect for maximum value both during and after their research project, and document their data throughout their research projects, maximizing the impact of their research and the value of the data they generate and share with other researchers. 
+Many data products are inherently spatial. Obviously, spatial data include data collection locations, but many other data may also be considered spatial: locations in space that documents pertain to and locations of historic or literary events illustrating just a few. While maps are a familiar product derived from spatial data, there is significant understanding of the underlying data -- the processes to which it has been subjected, the actual values within the data, the originator of the data, any limitations in the appropriate use of the data, and the nature of the dataset itself (format, scale, coordinate system, units) -- that is required before it can be productively used for research or applications. This course is designed to provide graduate-level students with the necessary skills and knowledge to meet this challenge through hands-on work in _discovering_, _creating_, _managing_, _using_, _documenting_ and _sharing_ spatial data. After completing this course students will be better prepared to develop a plan for the management of their spatial data, locate and evaluate data sources that they need for their research, create and structure data that they collect for maximum value both during and after their research project, and document their data throughout their research projects, maximizing the impact of their research and the value of the data they generate and share with other researchers. 
 
 
 # Course Instructor
@@ -11,7 +11,6 @@ Karl Benedict
  
 * Associate Professor, College of University Libraries and Learning Sciences
 * Affiliated Faculty, Department of Geography
-* Adjunct Professor, Department of Anthropology
  
 *Email*: [kbene@unm.edu](mailto:kbene@unm.edu)
 
@@ -34,7 +33,7 @@ An understanding of core spatial data concepts and principles is increasingly im
 * Spatial data documentation standards and practices
 * Data management planning 
 * Ethical, legal and privacy issues as they relate to spatial data
-* Emerging topics
+* Strategies for sharing spatial data
 
 Upon completion of the course students will have improved their knowledge and skills in the following areas:
 
@@ -43,6 +42,7 @@ Upon completion of the course students will have improved their knowledge and sk
 * Evaluate data products to determine which elements of a dataset might raise ethical, legal or privacy issues if released or shared with others
 * Documenting data as an ongoing process throughout the research cycle
 * Producing machine- and human-readable documentation for data to support discovery, understanding, and use of data that they produce
+* The options and strategies for effectively sharing their spatial data with collaborators and transitioning those data into long-term preservation systems
 
 Detailed weekly objectives are available in the separate Goals and Objectives document. ([Web page](http://karlbenedict.com/OILS515/goalsAndObjectives/goalsAndObjectives.html)) | ([PDF](http://karlbenedict.com/OILS515/goalsAndObjectives/goalsAndObjectives.pdf))
 
@@ -71,7 +71,7 @@ Course grades will be based on a combination of participation in live and online
 
 While students are encouraged to collaborate in their work on the project and homework assignments, submitted work must be original and written and submitted by each individual student. 
 
-Please refer to the [Pathfinder](http://pathfinder.unm.edu/) for detailed student conduct policies, and in particular the following [Policy on Academic Dishonesty](http://pathfinder.unm.edu/policies.htm#academicdishonesty). 
+Please refer to the [Pathfinder](http://pathfinder.unm.edu/) for detailed student conduct policies, and in particular the following [Policy on Academic Dishonesty](http://pathfinder.unm.edu/campus-policies/academic-dishonesty.html). 
 
 >Each student is expected to maintain the highest standards of honesty and integrity in academic and professional matters. The University reserves the right to take disciplinary action, up to and including dismissal, against any student who is found guilty of academic dishonesty or otherwise fails to meet the standards. Any student judged to have engaged in academic dishonesty in course work may receive a reduced or failing grade for the work in question and/or for the course.
 
@@ -148,7 +148,7 @@ Week  Topic                     Collaboratory              Assignment          P
  
 14    Data management planning  -                          -                   -
  
-15    Data management planning  -                          Data management     Project data and 
+15    Sharing Data              -                          Data management     Project data and 
                                                            plan peer review    documentation peer review
  
 16    Emerging concepts/        Project Presentations      -                   Present project results 
@@ -159,6 +159,6 @@ Week  Topic                     Collaboratory              Assignment          P
 # Additional Notes
 
 
-In an effort to meet obligations under Title IX, UNM faculty, Teaching Assistants, and Graduate Assistants are considered “responsible employees” by the Department of Education (see pg 15 - http://www2.ed.gov/about/offices/list/ocr/docs/qa-201404-title-ix.pdf).   This designation requires that any report of gender discrimination which includes sexual harassment, sexual misconduct and sexual violence made to a faculty member, TA, or GA must be reported to the Title IX Coordinator at the Office of Equal Opportunity (oeo.unm.edu). For more information on the campus policy regarding sexual misconduct, see: https://policy.unm.edu/university-policies/2000/2740.html
+Our classroom and our university should always be spaces of mutual respect, kindness, and support, without fear of discrimination, harassment, or violence. Should you ever need assistance or have concerns about incidents that violate this principle, please access the resources available to you on campus, especially the LoboRESPECT Advocacy Center and the support services listed on its website (http://loborespect.unm.edu/). Please note that, because UNM faculty, TAs, and GAs are considered "responsible employees" by the Department of Education, any disclosure of gender discrimination (including sexual harassment, sexual misconduct, and sexual violence) made to a faculty member, TA, or GA must be reported by that faculty member, TA, or GA to the university's Title IX coordinator. For more information on the campus policy regarding sexual misconduct, please see: [https://policy.unm.edu/university-policies/2000/2740.html](https://policy.unm.edu/university-policies/2000/2740.html).
 
 <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
