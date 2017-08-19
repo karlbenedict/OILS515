@@ -1,6 +1,6 @@
 body {
 	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	background-color: silver;
+	background-color: ;
 	color: #040486;
 }
 
@@ -14,7 +14,32 @@ a:hover {
 	color: red;
 }
 
+div#TOC {
+	float: left;
+	width: 250px;
+	padding-right: 30px;
+	padding-left: 0px;
+	margin-left: 0px;
+	margin-right: 10px;
+	font-size: x-small;
+	background-color: #1529c3;
+	color: white;
+}
+
+div#TOC a {
+	color: white;
+	background-color: rgba(255, 255, 255, 0);
+}
+
+div#TOC ul {
+	list-style-position: outside;
+}
+
 h1 {
-	border-top-style: solid;
+	#border-top-style: solid;
+}
+
+ul {
+	list-style-position: inside;	
 }
 
