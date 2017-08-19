@@ -1,6 +1,6 @@
 % Organization, Information, and Learning Sciences (OILS) 515 Goals, Objectives and Reading Assignments 
 % Karl Benedict, Associate Professor - College of University Libraries and Learning Sciences
-% Fall 2016
+% Fall 2017
 
 # Introduction
 
