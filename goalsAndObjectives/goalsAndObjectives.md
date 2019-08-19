@@ -1,6 +1,6 @@
-% Organization, Information, and Learning Sciences (OILS) 515 Goals, Objectives and Reading Assignments 
+% Organization, Information, and Learning Sciences (OILS) 515/ Geography 522 Goals, Objectives and Reading Assignments 
 % Karl Benedict, Associate Professor - College of University Libraries and Learning Sciences
-% Fall 2017
+% Fall 2019
 
 # Introduction
 
@@ -32,11 +32,19 @@ This week's required "collaboratory" session will allow us to share some backgro
 
 ## Reading ##
 
-Piwowar, Heather A., Roger S. Day, and Douglas B. Fridsma. 2007 "Sharing Detailed Research Data Is Associated with Increased Citation Rate." Plos One 2, no. 3 (accessed November 21, 2014). [link](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0000308)
+Piwowar, Heather A., Roger S. Day, and Douglas B. Fridsma. 2007 "Sharing Detailed Research Data Is Associated with Increased Citation Rate." *Plos One 2*, no. 3 DOI: [10.1371/journal.pone.0000308](https://doi.org/10.1371/journal.pone.0000308) (accessed November 21, 2014). [link](https://doi.org/10.1371/journal.pone.0000308)
 
-Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. "Data Sharing by Scientists: Practices and Perceptions." *Plos ONE* 6, no. 6: 1-21. (accessed November 21, 2014). [link](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=74275116&site=eds-live&scope=site)
+Tenopir, Carol, Suzie Allard, Kimberly Douglass, Arsev Umur Aydinoglu, Lei Wu, Eleanor Read, Maribeth Manoff, and Mike Frame. 2011. "Data Sharing by Scientists: Practices and Perceptions." *Plos ONE 6*, no. 6: 1-21. DOI: [10.1371/journal.pone.0021101](https://doi.org/10.1371/journal.pone.0021101) (accessed 8/2019). [link](https://doi.org/10.1371/journal.pone.0021101)
 
-Michener, William K. 2015. “Ecological Data Sharing.” *Ecological Informatics* 29 (September 2015): 33–44. doi:10.1016/j.ecoinf.2015.06.010. (Accessed August 21, 2016). [link](http://www.sciencedirect.com.libproxy.unm.edu/science/article/pii/S1574954115001004)
+Tenopir, C., Dalton, E. D., Allard, S., Frame, M., Pjesivac, I., Birch, B., … Dorsett, K. 2015. Changes in Data Sharing and Data Reuse Practices and Perceptions among Scientists Worldwide. *PLOS ONE*, 10(8), e0134826. DOI: [10.1371/journal.pone.0134826](https://doi.org/10.1371/journal.pone.0134826)(accessed 8/2019) [link](https://doi.org/10.1371/journal.pone.0134826)
+
+Michener, William K. 2015. “Ecological Data Sharing.” *Ecological Informatics* 29 (September 2015): 33–44. doi:[10.1016/j.ecoinf.2015.06.010](https://doi.org/10.1016/j.ecoinf.2015.06.010). (Accessed August 21, 2016). [link](https://doi.org/10.1016/j.ecoinf.2015.06.010)
+
+Simons, N.  & Richardson, J.. 2013. *New Content in Digital Repositories*. Chandos Publishing. [link]](https://learning.oreilly.com/library/view/new-content-in/9781843347439/) - Chapter 6
+
+
+Folger, P. (2018). *The Geospatial Data Act of 2018*. 14. (Accessed 8/2019) [link](https://fas.org/sgp/crs/misc/R45348.pdf)
+
 
 
 
@@ -44,7 +52,7 @@ Michener, William K. 2015. “Ecological Data Sharing.” *Ecological Informatic
 
 ## Background ##
 
-This week we begin our consideration of the different classes of geospatial data that you are likely to encounter - both as you search for data to use in your research and as you produce data with a spatial component that you need to integrate into a spatial data management system or workflow. Our focus is on *vector* datasets this week, with a particular emphasis on the general types of vector data *features* you need to be aware of, and the key linkage between vector *geometries* and the *attributes* that are linked to those features. While the introductory lecture focuses on these aspects of vector datasets, the concepts of *map projections* or *coordinate reference systems* as introduced in the reading are also core concepts that you will need to understand in the context of all spatial data that you work with. Next week's lecture will include a more detailed overview of map projections (and focus on raster data), but for now see what you can also pick up from the reading as it blends both vector and raster data and map projections into a single chapter. 
+This week we begin our consideration of the different classes of geospatial data that you are likely to encounter - both as you search for data to use in your research and as you produce data with a spatial component that you need to integrate into a spatial data management system or workflow. Our focus is on *vector* datasets this week, with a particular emphasis on the general types of vector data *features* you need to be aware of, and the key linkage between vector *geometries* and the *attributes* that are linked to those features. While the [introductory lecture](https://youtu.be/O8vssHx7ZOI) focuses on these aspects of vector datasets, the concepts of *map projections* or *coordinate reference systems* as introduced in the reading are also core concepts that you will need to understand in the context of all spatial data that you work with. Next week's lecture will include a more detailed overview of map projections (and focus on raster data), but for now see what you can also pick up from the reading as it blends both vector and raster data and map projections into a single chapter. 
 
 ## Expected Outcomes ##
 
@@ -63,9 +71,9 @@ By the end of this week's reading and work you should have an understanding of:
 
 ## Readings ##
 
-Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 2* and skim *Chapter 1*. 
+Westra, E. (2016). Python Geospatial Development. Olton, Birmingham: Packt Publishing. 3rd Edition, [*Chapter 2*](https://learning.oreilly.com/library/view/python-geospatial-development/9781785288937/ch02.html) and skim [*Chapter 1*](https://learning.oreilly.com/library/view/python-geospatial-development/9781785288937/ch01.html). 
 
-Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site). Review the *Introduction*, keeping in mind that some of the database related issues will come up in a few weeks - so, don't be worried if some of the database terminology is confusing during this initial read through. 
+Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [link](https://search.ebscohost.com/login.aspx?authtype=ip,guest&custid=s4858255&groupid=main&profile=eds&direct=true&db=cat06111a&AN=unm.EBC881292&site=eds-live&scope=site). Review the *Introduction*, keeping in mind that some of the database related issues will come up in a few weeks - so, don't be worried if some of the database terminology is confusing during this initial read through. 
 
 Galati, S. R. (2006). Geographic Information Systems Demystified. Boston: Artech House. [Link for access to the online and downloadable eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=225164&site=eds-live&scope=site). Skim *Chapters 1 & 3* 
 
@@ -89,9 +97,9 @@ You will be asked to provide a brief (10 minute) summary of what you found as a 
 
 ## Class Project ##
 
-Please develop a 2-paragraph summary description of your spatial data management focus for your class project. This focus will define the data products that you will create and document over the course of the semester. Ideally, these will be data that you are using in your research. If you are having a difficult identifying a topic area please contact Dr. Benedict to discuss the possibilities. 
+Please develop a 2-paragraph summary description of your spatial data management focus for your class project. This focus will define the 3+ data products that you will create and document over the course of the semester. Ideally, these will be data that you are using in your research. If you are having a difficult identifying a topic area please contact Dr. Benedict to discuss the possibilities. 
 
-Provide this summary description to Dr. Benedict by the end of *Week 5* and set up an appointment with Dr. Benedict to review your plan. 
+Provide this summary description to Dr. Benedict by the end of *Week 5* and set up an appointment with Dr. Benedict to review your plan. You are encouraged to discuss preliminary ideas for your project with Dr. Benedict prior to submission of your plan in week 5. 
 
 
 
@@ -101,7 +109,7 @@ Provide this summary description to Dr. Benedict by the end of *Week 5* and set 
 
 ## Background ##
 
-This week we will conclude our overview of geospatial data types and cover some additional core geospatial data concepts that you need to be familiar with as you work with geospatial data in your own research. Beginning with a discussion of *raster* data types, an introduction to the *geodatabase* concept (to be much expanded upon in the coming weeks) our overview of different classes of geospatial data is now complete. This week's lecture also includes a discussion of the key role of *coordinate reference systems* (AKA map projections) in understanding the map coordinates represented in geospatial data, the importance of the consideration of *accuracy and precision* in geospatial (and other) data, and the relationship between accuracy and precision and the concept of map scale. 
+This week we will conclude our overview of geospatial data types and cover some additional core geospatial data concepts that you need to be familiar with as you work with geospatial data in your own research. Beginning with a discussion of *raster* data types, an introduction to the *geodatabase* concept (to be much expanded upon in the coming weeks) our overview of different classes of geospatial data is now complete. This week's [lecture](https://youtu.be/u7lF48Rqq1A) also includes a discussion of the key role of *coordinate reference systems* (AKA map projections) in understanding the map coordinates represented in geospatial data, the importance of the consideration of *accuracy and precision* in geospatial (and other) data, and the relationship between accuracy and precision and the concept of map scale. 
 
 ## Expected Outcomes ##
 
@@ -119,14 +127,19 @@ After reviewing this week's lecture and completing the reading, you should under
 
 ## Reading ##
 
-Review the readings from last week as they relate to the raster data and other data concepts that will be covered in this week's lecture and demonstration. 
+Review the readings from last week as they relate to the raster and other data concepts that are covered in this week's [lecture](https://youtu.be/u7lF48Rqq1A). 
 
-Intergovernmental Committee on Surveying and Mapping - Anzlic Committee on Surveying & Mapping. *About Projections*. Online resource: [http://www.icsm.gov.au/mapping/about_projections.html](http://www.icsm.gov.au/mapping/about_projections.html). Accessed on 11/21/2014. 
+Intergovernmental Committee on Surveying and Mapping - [Anzlic Committee on Surveying & Mapping](http://www.icsm.gov.au/). 
 
-Quantum GIS (QGIS) Documentation:
+* [*Earth's Coordinate System*](http://www.icsm.gov.au/education/fundamentals-mapping/earths-coordinate-system). Accessed 8/2019
+* [*About Projections*](http://www.icsm.gov.au/education/fundamentals-mapping/projections). Accessed 8/2019. 
 
-* [A gentle introduction to GIS](http://docs.qgis.org/2.2/en/docs/gentle_gis_introduction/)
-* [User's Guide (skim for reference and familiarity with content and organization)](http://docs.qgis.org/2.2/en/docs/user_manual/index.html)
+Shammunul Islam, Simon Miles, Kurt Menke, Richard Smith Jr., Luigi Pirelli, John Van Hoesen. 2019. *Mastering Geospatial Development with QGIS 3.x - Third Edition*. Packt Publishing. [link](https://learning.oreilly.com/library/view/mastering-geospatial-development/9781788999892/e1a0e520-8901-4db7-a375-dd1344572e34.xhtml) - Introduction
+
+Quantum GIS (QGIS) [Documentation](https://www.qgis.org/en/docs/index.html):
+
+* [A gentle introduction to GIS](http://docs.qgis.org/3.4/en/docs/gentle_gis_introduction)
+* [User's Guide (skim for reference and familiarity with content and organization)](http://docs.qgis.org/3.4/en/docs/user_manual)
 
 ## Assignment ##
 
@@ -145,7 +158,7 @@ Continue your work on defining your data management focus for the term
 
 ## Background ##
 
-This week we begin our consideration of database design, beginning with the basic terminology, concepts and types of databases that have been developed to date. We will have a short in-class presentation during this week's collaboratory session relating to the considerations you want to keep in mind when starting the process of *modeling* your data to meet a specific analytic and management goal. 
+This week we begin our consideration of database design, beginning with the basic terminology, concepts and types of databases that have been developed to date. This week's [recorded lecture](https://youtu.be/dpahvJUxINU) relates to the considerations you want to keep in mind when starting the process of *modeling* your data to meet a specific analytic and management goal. 
 
 ## Expected Outcomes and Key Concepts ##
 
@@ -164,19 +177,17 @@ After completing this week's reading and participating in the collaboratory you 
 
 ## Reading ##
 
-This week's readings in *Database Design for Mere Mortals* cover the basic concepts of database terminology, leading into the design process as you consider the "model" for your data. Both editions are on 1-day reserve at the Centennial Science and Engineering Library. 
+This week's readings in *Database Design for Mere Mortals* cover the basic concepts of database terminology, leading into the design process as you consider the "model" for your data. 
 
-Michael J. Hernandez (2003). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 2nd ed. Addison-Wesley. *Chapters 1-3*
+Michael J. Hernandez (2013). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 3rd ed. Addison-Wesley. [link](https://learning.oreilly.com/library/view/database-design-for/9780133122282/)*Chapters 1-3*
 
-or 
+As some technical background for the database platform that underlies the geodatabase we will be working with as part of this class (SpatiaLite), skimming the following materials will be helpful.
 
-Michael J. Hernandez (2013). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 3rd ed. Addison-Wesley. *Chapters 1-3*
+Grant Allen and Mike Owens (2010). *The Definitive Guide to SQLite*. 2nd ed. Apress. [link](https://learning.oreilly.com/library/view/the-definitive-guide/9781430232254/). *Chapters 1-3* - skim 2, the installation process of SQLite is taken care of through installation of QGIS. 
 
-As some technical background for the database platform that underlies the geodatabase (SpatiaLite) we will be working with as part of this class, skimming the following materials will be helpful.
+Shammunul Islam, Simon Miles, Kurt Menke, Richard Smith Jr., Luigi Pirelli, John Van Hoesen. 2019. *Mastering Geospatial Development with QGIS 3.x - Third Edition*. Packt Publishing. [link](eospatial-development/9781788999892/df66508c-27c4-4aba-9443-df0b5f7e5a71.xhtml) - Creating Spatial Databases
 
-Grant Allen and Mike Owens (2010). *The Definitive Guide to SQLite*. 2nd ed. Apress. <http://www.books24x7.com.libproxy.unm.edu/marc.asp?bookid=37960> (you will need to create an account with Books 24x7 to access this digital resource). *Chapters 1-3* - skim 2, the installation process of SQLite is taken care of through the SpatiaLite installation process you perform. 
-
-and, as a beginning of our Python thread for the class, I recommend the following two iPython notebooks (an emerging technology that enables the development, execution and sharing of Python code through a web interface - <http://ipython.org/notebook.html> - both run on your local computer, but also potentially hosted on other systems) developed by J.R. Johansson [https://github.com/jrjohansson](https://github.com/jrjohansson):
+and, as a beginning of our (optional) Python thread for the class, I recommend the following two iPython notebooks that you can view in GitHub (through the links below), or run on your own computer if you have installed a Jupyter Notebook hosting enviornment on your computer - available through the "install" link from the Jupyter project homepage: <http://ipython.org/notebook.html>. The following introductory notebooks were developed by [J.R. Johansson](https://github.com/jrjohansson):
 
 [Lecture 0 - Scientific Computing with Python](https://github.com/karlbenedict/scientific-python-lectures/blob/master/Lecture-0-Scientific-Computing-with-Python.ipynb)
 
@@ -201,7 +212,7 @@ Please post your writeup in the class' collaboration space.
 
 ## Class Project ##
 
-Please continue your work in defining your data management focus for the term. Please schedule a time for us to "meet" to discuss your thoughts on this by the end of *Week 6* so we can make sure you are on track to be able to begin defining the specific datasets that you will be producing and documenting as part of your term project. 
+Please continue your work in defining your data management focus for the term. Please schedule a time for us to "meet" to discuss your thoughts on this by the end of *Week 5* so we can make sure you are on track to be able to begin defining the specific datasets that you will be producing and documenting as part of your term project. 
 
 
 
@@ -219,23 +230,19 @@ Similar to last week, just in more detail as the readings for this week go into 
 
 ## Reading ##
 
-Michael J. Hernandez (2003). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 2nd ed. Addison-Wesley. *Chapters 4, 5 (skim as you are most likely both the interviewer and interviewee in the context data that you are creating yourself), 6 & 7*
-
-or 
-
-Michael J. Hernandez (2013). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 3rd ed. Addison-Wesley. *Chapters 4, 5 (skim as you are most likely both the interviewer and interviewee in the context data that you are creating yourself), 6 & 7*
+Michael J. Hernandez (2013). Database Design for Mere Mortals: a Hands-on Guide to Relational Database Design. 3rd ed. Addison-Wesley. [link](https://learning.oreilly.com/library/view/database-design-for/9780133122282/) *Chapters 4, 5 (skim as you are most likely both the interviewer and interviewee in the context data that you are creating yourself), 6 & 7*
 
 Continuing the technical background for creating and adding data to SQLite (the database upon which SpatiaLite is based)
 
-Grant Allen and Mike Owens (2010). *The Definitive Guide to SQLite*. 2nd ed. Apress. <http://www.books24x7.com.libproxy.unm.edu/marc.asp?bookid=37960> (you will need to create an account with Books 24x7 to access this digital resource). *Chapter 4* 
+Grant Allen and Mike Owens (2010). *The Definitive Guide to SQLite*. 2nd ed. Apress. [link](https://learning.oreilly.com/library/view/the-definitive-guide/9781430232254/) *Chapter 4* 
 
 Also, related to data resources, 
 
-Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 4*. 
+Westra, E. (2016). Python Geospatial Development. Olton, Birmingham: Packt Publishing. 3rd Edition, [*Chapter 4*](https://learning.oreilly.com/library/view/python-geospatial-development/9781785288937/ch04.html). 
 
 Finally, if you are interested in practical demonstrations of SQL in SQLite
 
-*SQL Essential Training* on Lynda.com: [https://www.lynda.com/SQL-tutorials/SQL-Essential-Training/139988-2.html?org=unm.edu](https://www.lynda.com/SQL-tutorials/SQL-Essential-Training/139988-2.html?org=unm.edu)
+*Creating a Database with SQLite* by Allen Taylor -  video tutorial on Safari Online: [link](https://learning.oreilly.com/videos/creating-a-database/9781484238998)
 
 
 ## Assignment ##
@@ -243,9 +250,23 @@ Finally, if you are interested in practical demonstrations of SQL in SQLite
 Start working on the assignment to locate and describe data and review for documentation, usability and understanding. 
 
 
+## Class Project ##
+
+Please schedule a time for us to "meet" to discuss your thoughts on this by the end of this week so we can make sure you are on track to be able to begin defining the specific datasets that you will be producing and documenting as part of your term project. (This is Step 1 for the Class Project in the list of assignments)
 
 
 
+
+
+
+
+--------
+
+Content beyond this point is still subject to revision based upon class progress to this point. 
+
+--------
+
+<!--
 
 # Week 6 - Geodatabase Design #
 
@@ -279,6 +300,10 @@ Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Manag
 
 Continue working on data review assignment
 
+
+## Class Project ##
+
+Start making progress on defining the datasets for your class project.  
 
 
 
@@ -324,8 +349,9 @@ Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisti
 
 Continue working on data review assignment
 
+## Class Project ##
 
-
+Continue making progress on defining datasets for your class project.  
 
 
 
@@ -359,11 +385,11 @@ The National Geospatial Digital Archive Project documents. [Link](http://www.dig
 
 ## Assignment ##
 
-Present results of data review assignment in required collaboratory session
+Present results of your data review assignment in this week's required collaboratory session.
 
 ## Class Project ##
 
-Enumerate the specific datasets that you will create and document as part of your class project
+Set up an appointment with Dr. Benedict to discuss the specific datasets that you will create and document as part of your class project. (This is Step 2 in the Class Project in the list of assignments)
 
 
 
@@ -405,6 +431,10 @@ DCC Curation Reference manual - *Preservation Scenarios for Projects Producing D
 
 DCC Curation Reference Manual - *Scientific Metadata* chapter. [http://www.dcc.ac.uk/resources/curation-reference-manual/chapters-production/scientific-metadata](http://www.dcc.ac.uk/resources/curation-reference-manual/chapters-production/scientific-metadata)
 
+## Assignment ##
+
+Nothing this week. 
+
 ## Class Project ##
 
 Begin creating class project datasets
@@ -431,14 +461,18 @@ Continue metadata readings from Week 9.
 
 View the *XML Essential Training* Course on Lynda.com: [http://www.lynda.com/XML-tutorials/XML-Essential-Training/145930-2.html?org=unm.edu](http://www.lynda.com/XML-tutorials/XML-Essential-Training/145930-2.html?org=unm.edu)
 
+## Note on Software ##
+
+This week you may want to consider downloading an XML editor (such as [Aptana Studio](http://www.aptana.com/products/studio3.html) as used in the Lynda.com tutorial, or [Oxygen](http://www.oxygenxml.com/) as an alternative to creating your XML documents in a standard OS-provided text editor such as `notepad` (Windows) or a freely downloadable text editor such as `notepad++` ([download link](http://notepad-plus-plus.org/) for Windows) or `textwrangler` ([download link](http://www.barebones.com/products/textwrangler/) for Mac).  
+
+## Assignment ##
+
+Nothing this week. 
+
 ## Class Project ##
 
 Continue creating class project datasets
 
-
-## Note on Software ##
-
-This week you may want to consider downloading an XML editor (such as [Aptana Studio](http://www.aptana.com/products/studio3.html) as used in the Lynda.com tutorial, or [Oxygen](http://www.oxygenxml.com/) as an alternative to creating your XML documents in a standard OS-provided text editor such as `notepad` (Windows) or a freely downloadable text editor such as `notepad++` ([download link](http://notepad-plus-plus.org/) for Windows) or `textwrangler` ([download link](http://www.barebones.com/products/textwrangler/) for Mac).  
 
 
 
@@ -462,13 +496,17 @@ Following this week's work students should understand the following:
 
 FGDC (2000). *Content Standard for Digital Geospatial Metadata Workbook*. Version 2.0, May 1, 2000. [http://www.fgdc.gov/metadata/documents/workbook_0501_bmk.pdf](http://www.fgdc.gov/metadata/documents/workbook_0501_bmk.pdf)
 
-## Class Project ##
-
-Begin creating documentation for class project datasets
-
 ## Note on Software ##
 
 When creating FGDC metadata your can use an [online validation tool](https://mrdata.usgs.gov/validation/) as a complement to local validation with your XML tool of choice. 
+
+## Assignment ##
+
+Nothing this week. 
+
+## Class Project ##
+
+Begin creating documentation for class project datasets
 
 
 
@@ -505,10 +543,6 @@ NOAA National Coastal Data Development Center [Metadata standards page](http://w
 
 The [Dublin Core Users Guide](http://wiki.dublincore.org/index.php/User_Guide) describes the basic concepts behind the Dublin Core standard, its use of the W3C RDF Open Linked data model, and its role in the broader global system of metadata. Of specific interest in the context of geospatial metadata in the Dublin Core standard is the [coverage](http://tinyurl.com/pubjloq) property. 
 
-## Assignment ##
-
-Create a data management plan (start)
-
 ## Notes on Software ##
 
 ArcGIS ArcCatalog includes a basic editor for creating ISO metadata that can then be brought into a dedicated XML editor for completion or further editing. Information about the ISO standards and ESRI's support for them is available [here](http://resources.arcgis.com/en/help/main/10.2/index.html#//003t00000039000000). 
@@ -516,6 +550,14 @@ ArcGIS ArcCatalog includes a basic editor for creating ISO metadata that can the
 Quantum GIS also has an experimental plugin called [metatools](http://plugins.qgis.org/plugins/metatools/) that supports the import, viewing and editing of FGDC and ISO metadata. As an experimental plugin your mileage may vary. 
  
 The *Gulf of Mexico Research Initiative* has developed an online [web-based ISO 19115-2 editor](https://data.gulfresearchinitiative.org/metadata-editor/) that can be used to create a basic metadata record that you might want to further augment with more detailed information. 
+
+## Assignment ##
+
+Create a data management plan (start)
+
+## Class Project ##
+
+Continue creating documentation for class project datasets
 
 ## Required Collaboratory Session ##
 
@@ -556,13 +598,32 @@ The [DMPTool](https://dmp.cdlib.org/) provides a valuable [listing of links](htt
 
 The UK's [Digital Curation Centre](http://www.dcc.ac.uk/) also provides a [useful collection](http://www.dcc.ac.uk/resources/data-management-plans/funders-requirements) of links to resources related to key UK agency data management requirements. While you may not be developing plans for submission to these agencies, reviewing the requirements of other agencies can help to gain an understanding of the patterns of data management plan requirements. Please review a couple of the agency-specific guidelines for context. 
 
+## Assignment ##
+
+Continue work on data management plan.
+
+## Class project
+
+Continue creating documentation for class project datasets
+
+
 
 
 # Week 14 - Data Management Planning #
 
 ## Background ##
 
-This week's work continues our focus on data management planning from week 13.  
+This week's work continues our focus on data management planning from week 13. 
+
+## Assignment ##
+
+Continue work on data management plan.
+
+## Class project
+
+Continue creating documentation for class project datasets
+
+ 
 
 
 
@@ -591,16 +652,15 @@ re3data.org registry of repositories - [http://www.re3data.org](http://www.re3da
 
 Integrate two target repositories into your data management plan. 
 
-Share data management plan with peers for review. 
+Share data management plan with peers for review **at the beginning of the week**. 
+
+Review two of your colleague's DMPs **by the end of the week**.
 
 ## Class Project ##
 
-Share class project datasets and documentation with peers for review
+Share class project datasets and documentation with peers for review **at the beginning of the week**. 
 
-
-
-
-
+Review two of your colleague's dataset and documentation packages **by the end of the week**.
 
 
 
@@ -638,7 +698,8 @@ For an early, but *somewhat* readable argument against the applicability of copy
 
 Present class project results and peer review outcome as part of this week's collaboratory session. 
 
+-->
 
-
+------------------
 
 <div class="license"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Karl Benedict</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
