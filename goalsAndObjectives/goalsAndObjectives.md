@@ -73,7 +73,7 @@ By the end of this week's reading and work you should have an understanding of:
 
 Westra, E. (2016). Python Geospatial Development. Olton, Birmingham: Packt Publishing. 3rd Edition, [*Chapter 2*](https://learning.oreilly.com/library/view/python-geospatial-development/9781785288937/ch02.html) and skim [*Chapter 1*](https://learning.oreilly.com/library/view/python-geospatial-development/9781785288937/ch01.html). 
 
-Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [link](https://search.ebscohost.com/login.aspx?authtype=ip,guest&custid=s4858255&groupid=main&profile=eds&direct=true&db=cat06111a&AN=unm.EBC881292&site=eds-live&scope=site). Review the *Introduction*, keeping in mind that some of the database related issues will come up in a few weeks - so, don't be worried if some of the database terminology is confusing during this initial read through. 
+Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [link](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=881292). Review the *Introduction*, keeping in mind that some of the database related issues will come up in a few weeks - so, don't be worried if some of the database terminology is confusing during this initial read through. 
 
 Galati, S. R. (2006). Geographic Information Systems Demystified. Boston: Artech House. [Link for access to the online and downloadable eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=225164&site=eds-live&scope=site). Skim *Chapters 1 & 3* 
 
@@ -293,7 +293,7 @@ Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisti
 
 Finally, for a higher-level overview of some issues related to the development and performance of geodatabases:
 
-Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7199537&site=eds-live&scope=site). Review the *Chapter 2*. 
+Nikos Mamoulis (2012), Spatial Data Management. Synthesis Lectures on Data Management #21. Morgan & Claypool Publishers. DOI10.2200/S00394ED1V01Y201111DTM021. [https://ebookcentral.proquest.com/lib/unm/detail.action?docID=881292](https://ebookcentral.proquest.com/lib/unm/detail.action?docID=881292). Review the *Chapter 2*. 
 
 
 ## Assignment ##
@@ -550,7 +550,7 @@ ArcGIS ArcCatalog includes a basic editor for creating ISO metadata that can the
 Quantum GIS also has an experimental plugin called [metatools](http://plugins.qgis.org/plugins/metatools/) that supports the import, viewing and editing of FGDC and ISO metadata. As an experimental plugin your mileage may vary. 
  
 The *Gulf of Mexico Research Initiative* has developed an online [web-based ISO 19115-2 editor](https://data.gulfresearchinitiative.org/metadata-editor/) that can be used to create a basic metadata record that you might want to further augment with more detailed information. 
-
+	
 ## Assignment ##
 
 Create a data management plan (start)
