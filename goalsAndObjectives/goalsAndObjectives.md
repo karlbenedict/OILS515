@@ -260,13 +260,6 @@ Please schedule a time for us to "meet" to discuss your thoughts on this by the 
 
 
 
---------
-
-Content beyond this point is still subject to revision based upon class progress to this point. 
-
---------
-
-<!--
 
 # Week 6 - Geodatabase Design #
 
@@ -283,13 +276,10 @@ At the end of this section of the course, you should understand the following:
 
 ## Reading ##
 
-For a more "cookbook" style presentation of the processes of working with SpatiaLite, check out:
-
-[The SpatiaLite Cookbook](http://www.gaia-gis.it/gaia-sins/spatialite-cookbook/index.html#toc)
 
 For an overview of geospatially enabled databases and a description of the capabilities of three geodatabases, including SpatiaLite. 
 
-Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 6*.  
+Westra, E. (2016). Python Geospatial Development. Olton, Birmingham: Packt Publishing. 3rd Edition, [*Chapter 6*](https://learning.oreilly.com/library/view/python-geospatial-development/9781785288937/ch06.html).  
 
 Finally, for a higher-level overview of some issues related to the development and performance of geodatabases:
 
@@ -328,22 +318,22 @@ Following this week's work you should understand the following:
 
 "Raster" in the [Encyclopedia of Geographic Information Science](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=474337&site=eds-live&scope=site&ebv=EB&ppid=pp_361)
 
-Revisit the Quantum GIS User Guide - particularly the section on [Raster Data](http://docs.qgis.org/2.2/en/docs/user_manual/working_with_raster/index.html). 
+Revisit the Quantum GIS User Guide - particularly the section on [Raster Data](https://docs.qgis.org/3.4/en/docs/user_manual/working_with_raster/index.html). 
 
-Review the documentation for the [GDAL Utilities](http://www.gdal.org/gdal_utilities.html), particularly 
+Review the documentation for the [GDAL Utilities](https://gdal.org/programs/index.html), particularly 
 
-* [`gdalinfo`](http://www.gdal.org/gdalinfo.html)
-* [`gdal_translate`](http://www.gdal.org/gdal_translate.html)
-* [`gdalwarp`](http://www.gdal.org/gdalwarp.html)
+* [`gdalinfo`](https://gdal.org/programs/gdalinfo.html#gdalinfo)
+* [`gdal_translate`](https://gdal.org/programs/gdal_translate.html#gdal-translate)
+* [`gdalwarp`](https://gdal.org/programs/gdalwarp.html#gdalwarp)
 
 as these utilities based upon the GDAL library for processing Raster datasets provide very useful tools for interrogating and transforming raster data. For complementary capabilities for vector datasets, review the documentation for the OGR-related utilities:
 
-* [`ogrinfo`](http://www.gdal.org/ogrinfo.html)
-* [`ogr2ogr`](http://www.gdal.org/ogr2ogr.html)
+* [`ogrinfo`](https://gdal.org/programs/ogrinfo.html#ogrinfo)
+* [`ogr2ogr`](https://gdal.org/programs/ogr2ogr.html#ogr2ogr)
 
 All of these GDAL and OGR utilities are included as part of the installation process of QGIS on your computer, and are accessible through the OSGEO4W shell in Windows, or from the terminal under the Mac OS. 
 
-Westra, E. (2010). Python Geospatial Development : Build a Complete and Sophisticated Mapping Application From Scratch Using Python Tools for GIS Development. Olton, Birmingham: Packt Publishing. ([link for access page for downloadable eBook - expires](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=350538&site=eds-live&scope=site)) ([link for access page for online eBook](http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00503a&AN=unm.b7920432&site=eds-live&scope=site)). *Chapter 3*. With a particular focus on the discussion around GDAL and OGR as both of these libraries provide powerful capabilities for working with raster and vector data, both outside of and within Python. 
+Westra, E. (2016). Python Geospatial Development. Olton, Birmingham: Packt Publishing. 3rd Edition, [*Chapter 3*](https://learning.oreilly.com/library/view/python-geospatial-development/9781785288937/ch03.html). With a particular focus on the discussion around GDAL and OGR as both of these libraries provide powerful capabilities for working with raster and vector data, both outside of and within Python. 
 
 ## Assignment ##
 
@@ -459,11 +449,11 @@ Following this week's work you should understand the following
 
 Continue metadata readings from Week 9. 
 
-View the *XML Essential Training* Course on Lynda.com: [http://www.lynda.com/XML-tutorials/XML-Essential-Training/145930-2.html?org=unm.edu](http://www.lynda.com/XML-tutorials/XML-Essential-Training/145930-2.html?org=unm.edu)
+Kevin Goldberg. 2008. *XML: Visual QuickStart Guide, Second Edition*. Peachpit Press. [link](https://learning.oreilly.com/library/view/xml-visual-quickstart/9780321602589/) - Parts [1](https://learning.oreilly.com/library/view/xml-visual-quickstart/9780321602589/pt01.html), [3](https://learning.oreilly.com/library/view/xml-visual-quickstart/9780321602589/pt03.html), and [4](https://learning.oreilly.com/library/view/xml-visual-quickstart/9780321602589/pt04.html). 
 
 ## Note on Software ##
 
-This week you may want to consider downloading an XML editor (such as [Aptana Studio](http://www.aptana.com/products/studio3.html) as used in the Lynda.com tutorial, or [Oxygen](http://www.oxygenxml.com/) as an alternative to creating your XML documents in a standard OS-provided text editor such as `notepad` (Windows) or a freely downloadable text editor such as `notepad++` ([download link](http://notepad-plus-plus.org/) for Windows) or `textwrangler` ([download link](http://www.barebones.com/products/textwrangler/) for Mac).  
+This week you may want to consider downloading an XML editor (such as [Aptana Studio](http://www.aptana.com), or [Oxygen - with a trial license key](http://www.oxygenxml.com/) as an alternative to creating your XML documents in a standard OS-provided text editor such as `notepad` (Windows) or a freely downloadable text editor such as `notepad++` ([download link](https://notepad-plus-plus.org) for Windows) or the free tier of `BBEdit` ([download link](https://www.barebones.com/products/bbedit/) for Mac).  
 
 ## Assignment ##
 
@@ -500,6 +490,12 @@ FGDC (2000). *Content Standard for Digital Geospatial Metadata Workbook*. Versio
 
 When creating FGDC metadata your can use an [online validation tool](https://mrdata.usgs.gov/validation/) as a complement to local validation with your XML tool of choice. 
 
+ArcGIS Pro provides tools for creating geospatial metadata in a variety of standards. Information about ArcGIS support is available [here](https://pro.arcgis.com/en/pro-app/help/metadata/view-and-edit-metadata.htm). 
+
+Quantum GIS also has an experimental plugin called [metatools](http://plugins.qgis.org/plugins/metatools/) that supports the import, viewing and editing of FGDC and ISO metadata. As an experimental plugin your mileage may vary. 
+ 
+The *Gulf of Mexico Research Initiative* has developed an online [web-based ISO 19115-2 editor](https://data.gulfresearchinitiative.org/metadata-editor/) that can be used to create a basic metadata record that you might want to further augment with more detailed information.
+
 ## Assignment ##
 
 Nothing this week. 
@@ -531,7 +527,9 @@ Following this week's work, the following concepts should be understood:
 
 ## Reading ##
 
-[NOAA EDM ISO FAQ](https://geo-ide.noaa.gov/wiki/index.php?title=ISO_FAQ) - this wiki page provides some useful points of information (particularly [this one ](http://tinyurl.com/p24aon4) regarding getting started creating ISO metadata) about the ISO geospatial metadata standard and includes links to other helpful sites. 
+[NOAA EDM ISO FAQ](https://geo-ide.noaa.gov/wiki/index.php?title=ISO_FAQ) - this wiki page provides some useful points of information (particularly [this one ](http://tinyurl.com/p24aon4) regarding getting started creating ISO metadata) about the ISO geospatial metadata standard and includes links to other helpful sites. While this information is a bit dated in reference to the 2014 release of the 19115-1 standard, it remains a more readable introduction to the ISO standards than some other resources. 
+
+An overview of the [ISO 19115-1](https://ddi-alliance.atlassian.net/wiki/spaces/DDI4/pages/548405259/ISO+19115+Geographic+Information+--+Metadata) standard developed by Stephen Richard. 
 
 NOAA National Coastal Data Development Center [Metadata standards page](http://www.ncddc.noaa.gov/metadata-standards/) - particularly the linked reference materials for the
 
@@ -541,15 +539,9 @@ NOAA National Coastal Data Development Center [Metadata standards page](http://w
 
 [FGDC Geospatial Metadata Standards page](http://www.fgdc.gov/metadata/geospatial-metadata-standards) web page with basic information and associated links to related materials for the ISO and related standards in addition to the CSDGM.
 
-The [Dublin Core Users Guide](http://wiki.dublincore.org/index.php/User_Guide) describes the basic concepts behind the Dublin Core standard, its use of the W3C RDF Open Linked data model, and its role in the broader global system of metadata. Of specific interest in the context of geospatial metadata in the Dublin Core standard is the [coverage](http://tinyurl.com/pubjloq) property. 
+The [Dublin Core Users Guide](http://wiki.dublincore.org/index.php/User_Guide) describes the basic concepts behind the Dublin Core standard, its use of the W3C RDF Open Linked data model, and its role in the broader global system of metadata. Of specific interest in the context of geospatial metadata in the Dublin Core standard is the [coverage](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#terms-coverage) property. 
 
-## Notes on Software ##
-
-ArcGIS ArcCatalog includes a basic editor for creating ISO metadata that can then be brought into a dedicated XML editor for completion or further editing. Information about the ISO standards and ESRI's support for them is available [here](http://resources.arcgis.com/en/help/main/10.2/index.html#//003t00000039000000). 
-
-Quantum GIS also has an experimental plugin called [metatools](http://plugins.qgis.org/plugins/metatools/) that supports the import, viewing and editing of FGDC and ISO metadata. As an experimental plugin your mileage may vary. 
  
-The *Gulf of Mexico Research Initiative* has developed an online [web-based ISO 19115-2 editor](https://data.gulfresearchinitiative.org/metadata-editor/) that can be used to create a basic metadata record that you might want to further augment with more detailed information. 
 	
 ## Assignment ##
 
@@ -594,7 +586,7 @@ Inter-university Consortium for Political and Social Research (ICPSR)
 Digital Curation Centre (DCC - Edinburgh):
 :	(2013) Checklist for a Data Management Plan: Digital Resource (PDF) - [http://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf](http://www.dcc.ac.uk/sites/default/files/documents/resource/DMP_Checklist_2013.pdf). Accessed 4/20/2014. 
 
-The [DMPTool](https://dmp.cdlib.org/) provides a valuable [listing of links](https://dmptool.org/guidance) to agency guidelines for data management planning and templates based upon those guidelines. Review at least two of the NSF-related DMP guidelines and choose at least one other non-NSF guideline as well for review.  
+The [DMPTool](https://dmptool.org) provides a valuable [listing of links](https://dmptool.org/public_templates) to agency guidelines for data management planning and templates based upon those guidelines. Review at least two of the NSF-related DMP guidelines and choose at least one other non-NSF guideline as well for review.  
 
 The UK's [Digital Curation Centre](http://www.dcc.ac.uk/) also provides a [useful collection](http://www.dcc.ac.uk/resources/data-management-plans/funders-requirements) of links to resources related to key UK agency data management requirements. While you may not be developing plans for submission to these agencies, reviewing the requirements of other agencies can help to gain an understanding of the patterns of data management plan requirements. Please review a couple of the agency-specific guidelines for context. 
 
@@ -642,9 +634,7 @@ At the end of this class you should have an understanding of:
 
 ## Reading ##
 
-Strasser, Carli. 2014. *Institutional Repositories Parts 1 and 2*. Blog posts. 
-:   Part 1 (2014-01-30). [https://datapub.cdlib.org/2014/01/30/institutional-repositories-part-1/](https://datapub.cdlib.org/2014/01/30/institutional-repositories-part-1/)
-:   Part 2 (2014-02-14). [https://datapub.cdlib.org/2014/02/20/institutional-repositories-part-2/](https://datapub.cdlib.org/2014/02/20/institutional-repositories-part-2/)
+OpenAIRE Guides for Researchers - *How to select a data repository?* - [link](https://www.openaire.eu/opendatapilot-repository-guide)
 
 re3data.org registry of repositories - [http://www.re3data.org](http://www.re3data.org)
 
@@ -680,7 +670,7 @@ At the end of this class you should have a basic understanding of some of the ke
 
 ## Reading ##
 
-National Research Council. 2007. *Putting People on the Map: Protecting Confidentiality with Linked Social Spatial Data*. Myron P. Gutmann and Paul C. Stern (Editors). Washington, DC: The National Academies Press. PDF available for download from the National Academies Press: [http://www.nap.edu/catalog/11865.html](http://www.nap.edu/catalog/11865.html)
+National Research Council. 2007. *Putting People on the Map: Protecting Confidentiality with Linked Social Spatial Data*. Myron P. Gutmann and Paul C. Stern (Editors). Washington, DC: The National Academies Press. Free PDF available for download from the National Academies Press: [http://www.nap.edu/catalog/11865.html](http://www.nap.edu/catalog/11865.html)
 
 * *Executive Summary* - pp. 1-5
 * Levine, Felice J., and Joan E. Sieber. *Ethical Issues Related to Linked Social-Spatial Data* - pp. 123-159
@@ -692,13 +682,13 @@ Creative Commons Wiki entries relating to the application of Creative Commons li
 * [Data FAQs](http://wiki.creativecommons.org/Data)
 * [Data and the CC0 License](http://wiki.creativecommons.org/CC0_use_for_data)
 
-For an early, but *somewhat* readable argument against the applicability of copyright law to scientific data, you can read ["Is there a Property Interest in Scientific Research Data"](http://px7gv7gt2n.search.serialssolutions.com.libproxy.unm.edu/?genre=article&issn=08852715&title=High+Technology+Law+Journal&volume=1&issue=2&date=19860901&atitle=IS+THERE+A+PROPERTY+INTEREST+IN+SCIENTIFIC+RESEARCH+DATA%3f&spage=447&pages=447-482&sid=EBSCO:Publisher+Provided+Full+Text+Searching+File&au=JONES%2c+RICHARD+H.) by Richard H. Jones (1986). *High Technology Law Journal*. Vol. 1. pp. 447-482. 
+
 
 ## Class Project ##
 
 Present class project results and peer review outcome as part of this week's collaboratory session. 
 
--->
+
 
 ------------------
 
